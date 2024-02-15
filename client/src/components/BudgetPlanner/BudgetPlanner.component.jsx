@@ -207,3 +207,29 @@ function BudgetPlanner({ expenses }) {
 }
 
 export default BudgetPlanner;
+
+
+/*
+{
+      month: "January",
+      amount: 220,
+      category: "Education",
+      categoryBudget: 10000,
+      monthlyBudget: 400000,
+    },
+    {
+      month: "May",
+      amount: 220,
+      category: "Education",
+      categoryBudget: 10000,
+      monthlyBudget: 420000,
+    },
+    {
+      month: "November",
+      amount: 220,
+      category: "Food",
+      categoryBudget: 10000,
+      monthlyBudget: 450000,
+    },
+
+*/
