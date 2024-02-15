@@ -8,11 +8,11 @@ import { deleteExpense, postExpense } from "../api";
 import { CATEGORY } from "../constants/constant";
 
 import Cards from "../components/Cards";
-import { ChartsView } from "../components/ChartsView";
+import ChartsView from "../components/ChartsView/ChartsView.component";
 import BudgetPlanner from "../components/BudgetPlanner";
 import Nav from "../components/Nav";
 import TopNav from "../components/TopNav";
-import { AddNew } from "../components/AddNew";
+import AddTransaction  from '../components/AddTransaction/AddTransaction.component'
 
 
 const Homepage = () => {
@@ -130,7 +130,7 @@ const Homepage = () => {
                                     />
                                 </Col>
                                 <Col xs="auto">
-                                    <AddNew
+                                    <AddTransaction
                                         newExpense={newExpense}
                                         handleAdd={handleAdd}
                                         handleChange={handleChange}
