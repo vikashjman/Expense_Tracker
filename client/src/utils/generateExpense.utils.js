@@ -1,38 +1,28 @@
-import { CATEGORY } from "../constants/constant";
+import { CATEGORY, MONTH } from "../constants/constant";
 
 export const getExpensesByYear = (expenses) => {
-    const monthlyTotals = {
-        january: 0,
-        february: 0,
-        march: 0,
-        april: 0,
-        may: 0,
-        june: 0,
-        july: 0,
-        august: 0,
-        september: 0,
-        october: 0,
-        november: 0,
-        december: 0,
-    };
+    let monthlyTotalExpense = {};
+    Object.values(MONTH).forEach(month => {
+        monthlyTotalExpense[month] = 0;
+    });
 
     expenses.forEach((exp) => {
-        const monthKey = exp.month.toLowerCase();
-        if (monthKey in monthlyTotals) {
-            monthlyTotals[monthKey] += parseInt(exp.transaction.amount) || 0;
+        const monthKey = exp.month;
+        if (monthKey in monthlyTotalExpense) {
+            monthlyTotalExpense[monthKey] += parseInt(exp.transaction.amount) || 0;
         }
     });
 
-    return Object.values(monthlyTotals);
+    return Object.values(monthlyTotalExpense);
 };
 
 export const getExpensesByMonthForCategory = (month, expenses) => {
-    let categorySpent = {};
-
+    
     const newExpenses = expenses.filter((exp) => exp.month === month);
-
-    Object.values(CATEGORY).forEach((cat) => {
-        categorySpent[cat] = 0;
+    
+    let categorySpent = {};
+    Object.values(CATEGORY).forEach((category) => {
+        categorySpent[category] = 0;
     });
 
     newExpenses.forEach(({ transaction }) => {
