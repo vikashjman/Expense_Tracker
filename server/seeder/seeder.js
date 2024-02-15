@@ -1,4 +1,4 @@
-const { connectDB, disconnectDB } = require('../db/db');
+const { connectDB, disconnectDB } = require('../utils/db');
 const Budget = require('../models/budget.model');
 const Expense = require('../models/expense.model');
 const {mockBudgets, mockExpenses} = require('./data');

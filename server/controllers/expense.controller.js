@@ -1,50 +1,58 @@
-const Expense = require("../models/expense.model");
+const Expense = require("../models/expense.model"); // Importing Expense model
+const asyncHandler = require("../utils/asyncHandler.utils"); // Importing asyncHandler middleware
 
-exports.getExpense = async (req, res) => {
-  try {
-    const expense = await Expense.find();
-    res.status(201).json(expense);
-  } catch (error) {
-    res.status(500).send(error.message);
-  }
-};
+/**
+ * Get all expenses.
+ * @returns {Function} Middleware function for handling route.
+ */
+exports.getExpense = asyncHandler(async (req, res) => {
+  // Fetch all expenses from the database
+  const expense = await Expense.find();
+  // Send response with status 200 and JSON data containing expenses
+  res.status(200).json(expense);
+});
 
-exports.getExpenseByMonth = async (req, res) => {
-  try {
-    const expense = await Expense.find();
-    res.status(201).json(expense);
-  } catch (error) {
-    res.status(500).send(error.message);
-  }
-};
+/**
+ * Get expenses by month.
+ * @param {Object} req - Express request object.
+ * @param {Object} res - Express response object.
+ * @returns {Function} Middleware function for handling route.
+ */
+exports.getExpenseByMonth = asyncHandler(async (req, res) => {
+  // Extract month parameter from request
+  const { month } = req.params;
+  // Find expenses for the specified month from the database
+  const expense = await Expense.find({ month: month });
+  // Send response with status 200 and JSON data containing expenses for the specified month
+  res.status(200).json(expense);
+});
 
-exports.deleteExpense = async (req, res) => {
-  try {
-    const { id } = req.params;
-    const response = await Expense.findOneAndDelete({ uuid: id });
-    return res.json({ message: "Deleted Sucessfully!" });
-  } catch (error) {
-    res.status(500).send(error.message);
-  }
-};
+/**
+ * Delete an expense by ID.
+ * @param {Object} req - Express request object.
+ * @param {Object} res - Express response object.
+ * @returns {Function} Middleware function for handling route.
+ */
+exports.deleteExpense = asyncHandler(async (req, res) => {
+  // Extract ID parameter from request
+  const { id } = req.params;
+  // Find and delete the expense with the specified UUID
+  await Expense.findOneAndDelete({ uuid: id });
+  // Send response with status 200 and success message
+  res.status(200).json({ message: "Deleted Successfully!" });
+});
 
-exports.postExpense = async (req, res) => {
-  try {
-    const newExpense = new Expense(req.body);
-    await newExpense.save();
-    res.status(201).json({ data: newExpense });
-  } catch (error) {
-    res.status(500).send(error.message);
-  }
-};
-
-
-exports.clearAllData = async (req,res)=>{
-  try {
-    const response = await Expense.deleteMany({});
-    
-    return res.json({message:"Deleted Succesfully!", response})
-  } catch (error) {
-    res.status(500).send(error.message);
-  }
-}
+/**
+ * Create a new expense.
+ * @param {Object} req - Express request object.
+ * @param {Object} res - Express response object.
+ * @returns {Function} Middleware function for handling route.
+ */
+exports.postExpense = asyncHandler(async (req, res) => {
+  // Create a new Expense object with data from request body
+  const newExpense = new Expense(req.body);
+  // Save the new expense to the database
+  await newExpense.save();
+  // Send response with status 201 and JSON data containing the newly created expense
+  res.status(201).json({ data: newExpense });
+});

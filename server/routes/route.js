@@ -3,7 +3,6 @@ const router = express.Router();
 const expenseController = require("../controllers/expense.controller");
 const budgetController = require("../controllers/budget.controller");
 
-router.delete("/expense/deleteall", expenseController.clearAllData)
 router.get("/expense", expenseController.getExpense);
 router.get("/expense/:month", expenseController.getExpenseByMonth);
 router.post("/expense", expenseController.postExpense);

@@ -5,12 +5,23 @@ import Modal from "react-bootstrap/Modal";
 import Form from "../BudgetForm/BudgetForm.component";
 import { fetchAllBudgets, getExpense } from "../../api";
 import { CATEGORY, MONTH } from "../../constants/constant";
+import { capFirst } from "../../utils/generateExpense.utils";
 
-
-
+/**
+ * Component to manage budget planning and display budget completion progress.
+ * @param {Object} props - Component props.
+ * @param {Array} props.expenses - List of expenses.
+ * @returns {JSX.Element} - BudgetPlanner component.
+ */
 function BudgetPlanner({ expenses }) {
+  // State to store budget data
   const [budget, setBudget] = useState([]);
 
+  /**
+   * Function to calculate monthly spending for each category.
+   * @param {Array} transactions - List of expense transactions.
+   * @returns {Object} - Object containing monthly spending data for each category.
+   */
   function getMonthlyCategorySpending(transactions) {
     const monthlyData = {};
 
@@ -31,24 +42,25 @@ function BudgetPlanner({ expenses }) {
       monthlyData[month][category] += amount;
     });
 
-
     return monthlyData;
   }
 
+  // Fetching budget and expense data from API on component mount
   useEffect(() => {
     const getBudgets = async () => {
-
-
+      // Fetching expense data
       const expenseResponse = await getExpense();
-      const budgetResponse = await fetchAllBudgets();
-
       const expenseData = expenseResponse.data;
+
+      // Fetching budget data
+      const budgetResponse = await fetchAllBudgets();
       const budgetData = budgetResponse.data;
 
-  
+      // Calculating monthly spending for each category
       const monthlyCategorySpendings = getMonthlyCategorySpending(expenseData);
       let budgetList = [];
 
+      // Processing budget data to match with monthly spending
       budgetData.forEach((bud) => {
         const { month, monthlyBudget, budgets } = bud;
 
@@ -68,27 +80,37 @@ function BudgetPlanner({ expenses }) {
         });
       });
 
+      // Setting budget state with processed data
       setBudget(budgetList);
     };
 
     getBudgets();
   }, []);
 
+  // List of expense categories
   const categories = Object.values(CATEGORY);
 
+  // State to manage selected month for budget planning
   const [selectedMonth, setSelectedMonth] = useState("Yearly");
+
+  // State to manage modal visibility
   const [show, setShow] = useState(false);
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
 
-  // Function to calculate total budget and total spent for each category for the whole year
+  // Function to handle month change in budget planning
+  const handleMonthChange = (e) => {
+    setSelectedMonth(e.target.value);
+  };
+
+  // Function to calculate total budget and total spent for each category for the selected period
   const yearlyData = categories.map((category) => {
     const categoryData =
       selectedMonth === "Yearly"
         ? budget.filter((item) => item.category === category)
         : budget.filter(
-          (item) => item.category === category && item.month === selectedMonth
-        );
+            (item) => item.category === category && item.month === selectedMonth
+          );
     const totalBudget = categoryData.reduce(
       (acc, item) => acc + item.categoryBudget,
       0
@@ -102,12 +124,9 @@ function BudgetPlanner({ expenses }) {
     return Math.round((totalSpent / totalBudget) * 100) || 0;
   };
 
-  const handleMonthChange = (e) => {
-    setSelectedMonth(e.target.value);
-  };
-
   return (
     <div className="budget-container">
+      {/* Overall budget completion progress */}
       <div className="overall-budget">
         <label className="budget-title">Overall Budget Completion</label>
         <div className="progress-container">
@@ -133,11 +152,13 @@ function BudgetPlanner({ expenses }) {
             %
           </span>
         </div>
-        {/* <button className="budget-button">Budget Planner</button> */}
+        {/* Button to open budget planner modal */}
         <Button onClick={handleShow} className="budget-button">
           Budget Planner
         </Button>
       </div>
+
+      {/* Dropdown to select month for budget planning */}
       <div className="selectorDiv">
         <select
           className="form-select"
@@ -146,10 +167,12 @@ function BudgetPlanner({ expenses }) {
         >
           <option value="Yearly">Yearly</option>
           {Object.values(MONTH).map((month) => (
-            <option month={month}>{month}</option>
+            <option month={month}>{capFirst(month)}</option>
           ))}
         </select>
       </div>
+
+      {/* Category-wise budget completion progress */}
       <div className="category-budgets">
         {yearlyData.map(({ category, totalSpent, totalBudget }, index) => (
           <div key={index} className="category">
@@ -169,7 +192,8 @@ function BudgetPlanner({ expenses }) {
           </div>
         ))}
       </div>
-      {/*  */}
+
+      {/* Budget planner modal */}
       <Modal backdrop="static" centered show={show} onHide={handleClose}>
         <Modal.Header closeButton>
           <Modal.Title>Create Budget</Modal.Title>

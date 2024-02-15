@@ -5,19 +5,21 @@ import Container from "react-bootstrap/Container";
 import Modal from "react-bootstrap/Modal";
 import Row from "react-bootstrap/Row";
 import { CATEGORY, MONTH } from "../../../constants/constant";
+import { capFirst } from "../../../utils/generateExpense.utils";
+
 function TransactionModal(props) {
+    // Destructuring props to get the newExpense state, handleChangeExpense and handleAddExpense functions
     const { newExpense, handleChangeExpense, handleAddExpense } = props;
+
+    // Function to handle click event of the Add button
     const onClickHandler = () => {
-        props.onHide();
-        handleAddExpense();
+        props.onHide(); // Hide the modal
+        handleAddExpense(); // Add the new expense
     };
-
-
 
     return (
         <Modal
             backdrop="static"
-            style={{ justifyContent: "space-between" }}
             {...props}
             aria-labelledby="contained-modal-title-vcenter"
             centered
@@ -36,8 +38,8 @@ function TransactionModal(props) {
                                 name="category"
                                 onChange={(e) => handleChangeExpense(e)}
                             >
-                                {Object.values(CATEGORY).map(cat => <option value={cat}>{cat}</option>)}
-
+                                {/* Mapping categories to dropdown options */}
+                                {Object.values(CATEGORY).map(cat => <option value={cat}>{cat}</option>)} 
                             </select>
                         </Col>
                         <Col xs={12} md={8}>
@@ -63,7 +65,6 @@ function TransactionModal(props) {
                                 onChange={(e) => handleChangeExpense(e)}
                             />
                         </Col>
-
                     </Row>
                     <br />
                     <Row>
@@ -73,13 +74,15 @@ function TransactionModal(props) {
                                 value={newExpense.month}
                                 onChange={(e) => handleChangeExpense(e)}
                             >
-                                {Object.values(MONTH).map((mon) => <option value={mon}>{mon}</option>)}
+                                {/* Mapping months to dropdown options */}
+                                {Object.values(MONTH).map((mon) => <option value={mon}>{capFirst(mon)}</option>)}
                             </select>
                         </Col>
                     </Row>
                 </Container>
             </Modal.Body>
             <Modal.Footer>
+                {/* Add button with click handler */}
                 <Button
                     onClick={(e) => {
                         onClickHandler(e);

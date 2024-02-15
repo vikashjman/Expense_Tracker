@@ -56,3 +56,8 @@ export const valToPercent = (val, total) => {
     }
     return Math.round((val / total) * 100);
 };
+
+
+export function capFirst(str) {
+    return str[0].toUpperCase() + str.slice(1).toLowerCase();
+}
