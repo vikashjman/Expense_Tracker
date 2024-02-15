@@ -53,7 +53,9 @@ const Homepage = () => {
         // Reset the newExpense to initial state
         setnewExpense(initialState);
         // Update the expenses list
-        setExpenses([...expenses, payload]);
+        setExpenses([payload,...expenses]);
+
+        console.log(payload)
     };
 
 
@@ -137,7 +139,7 @@ const Homepage = () => {
                         style={{ height: "90vh", overflowY: "scroll", paddingTop: "30px" }}
                     >
                         <div className="row">
-                            <BudgetPlanner expenses={expenses} /> {/* Pass expenses state as prop */}
+                            <BudgetPlanner  />
                         </div>
                         <div className="row" style={{ paddingTop: "10px" }}>
                             <ChartsView

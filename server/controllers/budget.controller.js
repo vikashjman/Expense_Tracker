@@ -19,6 +19,7 @@ exports.getBudget = asyncHandler(async (req, res) => {
  * @returns {Function} Middleware function for handling route.
  */
 exports.getBudgetByMonth = asyncHandler(async (req, res) => {
+
   // Extract month parameter from request
   const { month } = req.params;
   // Find budgets for the specified month from the database
@@ -48,7 +49,7 @@ exports.updateOrCreateBudget = asyncHandler(async (req, res) => {
     const categoryIndex = existingBudget.budgets.findIndex(item => item.category === newItem.category);
     if (categoryIndex !== -1) {
       // If category exists, update its amount
-      existingBudget.budgets[categoryIndex].amount += newItem.amount;
+      existingBudget.budgets[categoryIndex].amount = newItem.amount;
     } else {
       // If category does not exist, add it to the budget
       existingBudget.budgets.push(newItem);

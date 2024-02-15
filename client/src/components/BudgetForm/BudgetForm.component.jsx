@@ -1,83 +1,67 @@
 import { useEffect, useState } from "react";
+
 import React from "react";
+import { fetchAllBudgets, postBudget } from "../../api";
+import { CATEGORY } from "../../constants/constant";
 
-import { fetchAllBudgets, postBudget } from "../../api"; // Importing API functions for fetching and posting budgets
-import { CATEGORY } from "../../constants/constant"; // Importing category constant for dropdown options
-import { percentToVal, valToPercent } from "../../utils/generateExpense.utils"; // Importing utility functions for conversion
-
-/**
- * Component for creating and submitting budget plans.
- * @returns {JSX.Element} - Form component.
- */
 function Form() {
-  // State to manage selected month for budget planning
   const [monthly, setMonthly] = useState("");
-  // State to manage monthly budget amount
   const [monthlyBudget, setMonthlyBudget] = useState(0);
-  // State to manage selected category for budget planning
   const [category, setCategory] = useState("");
-  // State to manage category budget percentage
   const [categoryPercent, setCategoryPercent] = useState(0);
-  // State to store existing budgets
   const [budgets, setBudgets] = useState({});
 
-  // Fetching existing budgets from the server
   useEffect(() => {
     const get_all_budget = async () => {
-      try {
-        // Fetching all budgets from the server
-        const response = await fetchAllBudgets();
-        // Setting the budgets state with the fetched data
-        setBudgets(response.data);
-      } catch (error) {
-        console.error("Error fetching budgets:", error);
-      }
+      const response = await fetchAllBudgets();
+      setBudgets(response.data);
     };
-    // Calling the function to fetch budgets when the component mounts
     get_all_budget();
   }, []);
 
-  // Handler for changing the selected month
+  const percentToVal = (percent, total) => {
+    return (percent * total) / 100;
+  }
+  const valToPercent = (val, total) => {
+
+    if (isNaN(total) || total === 0) {
+      return 0;
+    }
+    if (isNaN(val)) {
+      return 0;
+    }
+    return Math.round((val / total) * 100);
+  };
+
   const handleMonthlyChange = (e) => {
-    // Getting the selected value from the event
     const value = e.target.value;
-    // Setting the selected month
     setMonthly(value);
-    // Finding the index of the selected month in the budgets array
     const index = budgets.findIndex((ele) => ele.month === value);
 
-    // If the selected month is found
     if (index !== -1) {
-      // Setting the monthly budget to the budget of the selected month
       const preBudget = budgets[index].monthlyBudget;
       setMonthlyBudget(preBudget);
-      // Finding the index of the selected category in the budgets of the selected month
-      const budgetIndex = budgets[index].budgets.findIndex(
-        (ele) => ele.category === category
-      );
-      // If the selected category is found
+      const budgetIndex = budgets[index].budgets.findIndex(ele => ele.category === category);
       if (budgetIndex !== -1) {
-        // Setting the category percentage to the percentage of the category's budget compared to the monthly budget
         const preCatVal = budgets[index].budgets[budgetIndex].amount;
-        setCategoryPercent(valToPercent(preCatVal, preBudget));
+        setCategoryPercent(valToPercent(preCatVal, preBudget))
       } else {
-        // If the selected category is not found, setting the category percentage to 0
-        setCategoryPercent(0);
+        setCategoryPercent(0)
       }
     } else {
-      // If the selected month is not found, setting the monthly budget and category percentage to 0
       setMonthlyBudget(0);
       setCategoryPercent(0);
     }
   };
 
-  // Handler for changing the monthly budget amount
   const handleMonthlyBudget = (e) => {
-    // Setting the monthly budget amount based on the user input
     setMonthlyBudget(e.target.value);
   };
 
-  // Handler for submitting the budget plan
+
+
+
+
   const handleSubmit = async (e) => {
     e.preventDefault();
     const payload = {
@@ -86,98 +70,80 @@ function Form() {
       newItem: {
         amount: percentToVal(categoryPercent, monthlyBudget),
         category: category,
-      },
-    };
-
+      }
+    }
+  
     try {
-      // Posting the budget plan to the server
       await postBudget(payload);
-
-      // Copying the existing budgets array
+  
       const updatedBudgets = [...budgets];
-      // Finding the index of the existing budget for the selected month
-      const existingBudgetIndex = updatedBudgets.findIndex(
-        (budget) => budget.month === monthly
-      );
-
-      // If the existing budget for the selected month is found
+      const existingBudgetIndex = updatedBudgets.findIndex(budget => budget.month === monthly);
+  
       if (existingBudgetIndex !== -1) {
-        // Updating the existing budget with the new budget plan
         const existingBudget = updatedBudgets[existingBudgetIndex];
         if (monthlyBudget) existingBudget.monthlyBudget = monthlyBudget;
-
-        // Finding the index of the selected category within the existing budget
-        const categoryIndex = existingBudget.budgets.findIndex(
-          (item) => item.category === category
-        );
-        // If the selected category is found within the existing budget
+  
+        const categoryIndex = existingBudget.budgets.findIndex(item => item.category === category);
         if (categoryIndex !== -1) {
-          // Updating the category amount with the new budget plan
           existingBudget.budgets[categoryIndex].amount = payload.newItem.amount;
         } else {
-          // If the selected category is not found within the existing budget, adding it to the budget
           existingBudget.budgets.push(payload.newItem);
         }
-
-        // Updating the existing budget within the budgets array
+  
         updatedBudgets[existingBudgetIndex] = existingBudget;
       } else {
-        // If there is no existing budget for the selected month, adding the new budget plan to the budgets array
         updatedBudgets.push({
           month: monthly,
           monthlyBudget: monthlyBudget,
           budgets: [payload.newItem],
         });
       }
-
-      // Setting the budgets state with the updated budgets array
+  
       setBudgets(updatedBudgets);
-      // Resetting the form fields after submission
       setMonthly("");
       setMonthlyBudget(0);
       setCategory("");
       setCategoryPercent(0);
+  
+      console.log("Budget submitted successfully and state updated.");
     } catch (error) {
       console.error("Error submitting budget:", error);
     }
-  };
+  }
+  
 
-  // Handler for changing the selected category
+
   const handleCategoryChange = (e) => {
-    // Getting the selected category from the event
     const newCat = e.target.value;
-    // Setting the selected category
-    setCategory(newCat);
-    // Finding the index of the selected month in the budgets array
+    setCategory(newCat)
     const index = budgets.findIndex((ele) => ele.month === monthly);
 
-    // If the selected month is found
+
     if (index !== -1) {
-      // Finding the index of the selected category within the budgets of the selected month
-      const budgetIndex = budgets[index].budgets.findIndex(
-        (ele) => ele.category === newCat
-      );
-      // If the selected category is found within the budgets of the selected month
+      const budgetIndex = budgets[index].budgets.findIndex(ele => ele.category === newCat);
+      console.log("budget", budgetIndex)
       if (budgetIndex !== -1) {
-        // Setting the category percentage to the percentage of the category's budget compared to the monthly budget
         const preCatVal = budgets[index].budgets[budgetIndex].amount;
-        setCategoryPercent(valToPercent(preCatVal, monthlyBudget));
-      } else {
-        // If the selected category is not found within the budgets of the selected month, setting the category percentage to 0
-        setCategoryPercent(0);
+        setCategoryPercent(valToPercent(preCatVal, monthlyBudget))
+      }
+      else {
+        setCategoryPercent(0)
       }
     } else {
-      // If the selected month is not found, setting the category percentage to 0
       setCategoryPercent(0);
     }
-  };
+
+
+
+  }
+
+
 
   return (
     <div className="budget-form-container">
       <form onSubmit={handleSubmit}>
         <fieldset className="fieldset">
           <legend className="legend">Budget Form</legend>
-          {/* Dropdown to select the month */}
           <div className="form-group">
             <label htmlFor="disabledSelect" className="form-label">
               Overall Monthly Budget
@@ -189,16 +155,21 @@ function Form() {
               className="form-select"
               onChange={handleMonthlyChange}
             >
-              <option value="" hidden>Select category</option>
-              {/* Mapping through months */}
-              {Object.values(CATEGORY).map((val) => (
-                <option key={val} value={val}>
-                  {val.toLowerCase()}
-                </option>
-              ))}
+              <option value="">Select category</option>
+              <option value="JANUARY">January</option>
+              <option value="FEBRUARY">February</option>
+              <option value="MARCH">March</option>
+              <option value="APRIL">April</option>
+              <option value="MAY">May</option>
+              <option value="JUNE">June</option>
+              <option value="JULY">July</option>
+              <option value="AUGUST">August</option>
+              <option value="SEPTEMBER">September</option>
+              <option value="OCTOBER">October</option>
+              <option value="NOVEMBER">November</option>
+              <option value="DECEMBER">December</option>
             </select>
           </div>
-          {/* Input field for entering monthly budget amount */}
           <div className="form-group">
             <label htmlFor="disabledTextInput" className="form-label">
               Total Amount
@@ -212,7 +183,6 @@ function Form() {
               onChange={handleMonthlyBudget}
             />
           </div>
-          {/* Dropdown to select the category */}
           <div className="form-group">
             <label htmlFor="disabledSelect" className="form-label">
               Expense Category
@@ -224,16 +194,10 @@ function Form() {
               className="form-select"
               onChange={handleCategoryChange}
             >
-              <option value="" hidden>Select category</option>
-              {/* Mapping through categories */}
-              {Object.values(CATEGORY).map((val) => (
-                <option key={val} value={val}>
-                  {val.toLowerCase()}
-                </option>
-              ))}
+              <option value="">Select category</option>
+              {Object.values(CATEGORY).map((val) => <option key={val} value={val}>{val.toLowerCase()}</option>)}
             </select>
           </div>
-          {/* Input field for entering expense percentage */}
           <div className="form-group">
             <label htmlFor="disabledTextInput" className="form-label">
               Expense Percentage
@@ -250,14 +214,10 @@ function Form() {
               }}
             />
           </div>
-          {/* Button to submit the budget plan */}
-          <div style={{ marginTop: "10px" }}>
-            <center>
-              <button type="submit" className="btn btn-primary">
-                Submit
-              </button>
-            </center>
-          </div>
+
+          <button type="submit" className="btn btn-primary">
+            Submit
+          </button>
         </fieldset>
       </form>
     </div>
