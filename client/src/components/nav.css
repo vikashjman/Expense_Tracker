@@ -1,0 +1,38 @@
+.navBody {
+  background-color: #3A3D46;
+  color: white; /* Set a fixed width for the sidebar */
+  height: 100vh; /* Set full height */
+  overflow: hidden;
+  margin-right: 0px;
+}
+
+.navTitle {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.navItems {
+  list-style: none;
+  padding: 0;
+}
+
+.navItems label {
+  display: block;
+  padding: 10px; /* Add padding to all sides */
+  cursor: pointer;
+  transition: all 0.3s ease; /* Add transition for smooth hover effect */
+}
+
+
+.navItems label:hover {
+  background-color: #555;
+}
+
+@media only screen and (max-width: 990px) {
+  .navBody {
+    display: none;
+  }
+  html,body{
+    overflow: unset;
+  }
+}

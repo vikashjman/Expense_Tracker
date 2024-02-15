@@ -1,0 +1,9002 @@
+[
+  {
+    "uuid": "5601cdaf-05aa-4fba-af12-3cb23522e2e3",
+    "month": "APRIL",
+    "transaction": {
+      "title": "protocol",
+      "amount": 326,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "0fc8430e-05d6-4b92-8ac1-3d62ae594f27",
+    "month": "MAY",
+    "transaction": {
+      "title": "bus",
+      "amount": 298,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "672984f5-6ac5-4f64-be39-466889cf6fe5",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "card",
+      "amount": 936,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "55e0dbc2-998b-40b1-a5ad-d8df834b24ec",
+    "month": "MARCH",
+    "transaction": {
+      "title": "monitor",
+      "amount": 123,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "647c4431-2306-4bcc-ae39-7b3969110adc",
+    "month": "JULY",
+    "transaction": {
+      "title": "card",
+      "amount": 587,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "e3f7d296-dd7e-4543-920b-7bb91525cd07",
+    "month": "MAY",
+    "transaction": {
+      "title": "protocol",
+      "amount": 354,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "8ae86381-30a6-4b57-bb86-93d8b52528a3",
+    "month": "JUNE",
+    "transaction": {
+      "title": "program",
+      "amount": 83,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "9fe67e60-fe94-4956-a804-1b8f4b85bced",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 701,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "0a979a78-82e1-4c1d-8a22-1193a6203e75",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "driver",
+      "amount": 391,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "f7ed01ec-224c-4d4e-8d8b-dd3fdd8303ad",
+    "month": "MARCH",
+    "transaction": {
+      "title": "driver",
+      "amount": 27,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "3dc7f72b-e567-40b3-9a95-b439502e908d",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "panel",
+      "amount": 934,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "376a73ac-fc75-4210-8e38-36539e8d570c",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "driver",
+      "amount": 317,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "fddd9e5c-80fb-4988-94b2-c26d9ba9a806",
+    "month": "APRIL",
+    "transaction": {
+      "title": "system",
+      "amount": 230,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "c42a43c8-5af4-48a0-8e8b-c83968ef6296",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "port",
+      "amount": 589,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "cd1bda70-6763-4749-9df4-9b92e4cb6257",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "feed",
+      "amount": 25,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "e3425366-d264-45ed-bb93-8c385bb6cede",
+    "month": "JULY",
+    "transaction": {
+      "title": "port",
+      "amount": 174,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "b91ae2bf-bfec-48df-a70a-a8ab455a4f8d",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "application",
+      "amount": 639,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "c801b2d4-ddb2-4ffc-b0f7-2e34b992e1c7",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "driver",
+      "amount": 247,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "ce977a83-8d76-4407-851b-bbb7fa321cc2",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "port",
+      "amount": 700,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "764f4d3a-f64d-4846-b111-943b80606f13",
+    "month": "APRIL",
+    "transaction": {
+      "title": "feed",
+      "amount": 938,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "afbf55d2-a4c5-45b4-b1e0-5674cfde6a10",
+    "month": "JUNE",
+    "transaction": {
+      "title": "panel",
+      "amount": 910,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "f5e591cd-e82f-490b-94ff-6186d00e0694",
+    "month": "JUNE",
+    "transaction": {
+      "title": "system",
+      "amount": 256,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "d5375c9b-a663-45ec-b3e4-9ba106380494",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "card",
+      "amount": 798,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "08b55882-bac8-4bdd-a8b9-bf2b39f301a0",
+    "month": "MARCH",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 41,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "a26233c8-4c1e-455e-98a8-4116639c8c96",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 49,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "1882c9c6-faba-4e37-969d-744490265d31",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 838,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "b4dbd8be-0bbb-449b-8324-3252c906e906",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "monitor",
+      "amount": 918,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "e9267957-0331-4be4-a433-fe5e6b4d92b9",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "bus",
+      "amount": 435,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "80f94457-0f1a-41b6-bb9b-dab55c7ab8c4",
+    "month": "APRIL",
+    "transaction": {
+      "title": "sensor",
+      "amount": 683,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "b1ea0a38-0d16-4946-8411-33f52392ea15",
+    "month": "JUNE",
+    "transaction": {
+      "title": "matrix",
+      "amount": 438,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "fa8f8ef6-ae47-47f7-93a5-ca0a7a4bd1a7",
+    "month": "MAY",
+    "transaction": {
+      "title": "card",
+      "amount": 147,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "f40f71e3-61cd-43d0-a632-8ce3e8d0ef28",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "protocol",
+      "amount": 823,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "ad04a907-f3d3-40f5-9769-b476f04f620f",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "firewall",
+      "amount": 238,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "668e91f4-50c0-463d-800b-a08a0bb99843",
+    "month": "JUNE",
+    "transaction": {
+      "title": "driver",
+      "amount": 694,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "2e042afe-14b6-4525-9e7c-121107da3dec",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "program",
+      "amount": 15,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "820f77d2-173e-453d-96be-7b248af54b38",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "bus",
+      "amount": 545,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "02bc2c08-7902-4b49-898d-0d223cc36745",
+    "month": "JULY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 75,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "0b056cd3-aaee-4e26-aca2-05e67e724b1e",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "pixel",
+      "amount": 632,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "0ec3e20b-e8fd-4d11-bc13-a3daf0c03683",
+    "month": "MAY",
+    "transaction": {
+      "title": "driver",
+      "amount": 43,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "ca8ca01d-63b0-45e6-8456-c654c3021622",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 131,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "e8fbdac1-bf1c-44cf-b2b7-d0411725f84a",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 36,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "0fc95e5b-a914-4cb3-a0fa-8fd07ac17aac",
+    "month": "MAY",
+    "transaction": {
+      "title": "firewall",
+      "amount": 741,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "be8c178f-93c0-41d1-9944-20660dc4a262",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "feed",
+      "amount": 331,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "23facdf5-0466-4d91-b9e6-62d0e25c06e2",
+    "month": "MARCH",
+    "transaction": {
+      "title": "panel",
+      "amount": 152,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "e02df1db-996c-4c3c-8126-671b03a4adbf",
+    "month": "JUNE",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 509,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "749d92fd-aa0e-46e9-b8bf-d8af46b056b2",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 993,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "24250773-53e7-4e76-a9fd-f09d78e9e11a",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "array",
+      "amount": 284,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "24ca3bb2-9dfb-4335-86b5-a60c2d3486c1",
+    "month": "APRIL",
+    "transaction": {
+      "title": "panel",
+      "amount": 366,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "6472841f-d82d-4560-9fac-00928175bb05",
+    "month": "MARCH",
+    "transaction": {
+      "title": "card",
+      "amount": 13,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "1b01ce68-2f7f-49e4-a246-7c41f39d549e",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "port",
+      "amount": 143,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "abca1549-4af8-4939-9d21-108d1fff75c8",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 439,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "3e50e918-ae41-4c79-826b-0ff2120467f9",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "panel",
+      "amount": 529,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "af5defd9-cbbf-4670-bee8-518a497c7750",
+    "month": "MARCH",
+    "transaction": {
+      "title": "port",
+      "amount": 313,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "ef1494f1-6329-479f-8dea-3680fa362dda",
+    "month": "JUNE",
+    "transaction": {
+      "title": "microchip",
+      "amount": 662,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "8defd507-7167-4c03-a805-6a2e95c93a03",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "application",
+      "amount": 254,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "75e5b857-f95c-4716-864f-cedfe1164f4e",
+    "month": "APRIL",
+    "transaction": {
+      "title": "bus",
+      "amount": 643,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "395e6024-be01-4daa-b6cd-37586d93a863",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 705,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "9ddc641c-a596-470f-89a5-5f7f0833f8c6",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "bus",
+      "amount": 590,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "795bc40e-51ad-433e-9685-1b310196dec3",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "card",
+      "amount": 498,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "9689d9c3-20e6-43fe-a1c7-a2c438d7c6b0",
+    "month": "APRIL",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 917,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "8fc4dc32-4804-42e4-8247-00f030bc8c23",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 383,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "6bb4894d-5c82-4786-aa85-350ad0f8f77a",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 147,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "6d2aae5b-b137-455a-8fec-cced9296d6bd",
+    "month": "MARCH",
+    "transaction": {
+      "title": "firewall",
+      "amount": 329,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "c4a99196-6663-4111-a28b-006161ef5cc4",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "port",
+      "amount": 808,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "bfed74a4-fc5e-4eea-92a9-f0d1c15ecbc3",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "panel",
+      "amount": 973,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "ddb8c47a-6948-4859-9b5b-a40ab3e4b36b",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "feed",
+      "amount": 425,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "df137b46-b544-4c86-b29d-05b9408dabbb",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "system",
+      "amount": 452,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "7efafc44-1613-47c5-b792-7302b402e0d2",
+    "month": "JULY",
+    "transaction": {
+      "title": "panel",
+      "amount": 653,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "eb8500f9-e07e-4f6e-85c5-65b731d93641",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 158,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "6575dde4-3456-4f22-9d34-2fdb0c3abd2b",
+    "month": "JULY",
+    "transaction": {
+      "title": "application",
+      "amount": 361,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "3122c4eb-4a05-47d0-9207-63e09d61116e",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 593,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "53e4a888-01aa-44c2-9589-72ce730afd8c",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "port",
+      "amount": 533,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "81e98713-79f1-4e9e-99c0-15286323ac27",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 380,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "a05c67e0-2cb9-40af-80f9-5eb80d762633",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "matrix",
+      "amount": 355,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "b43803f3-11ff-472d-aa22-7ce385c2bb45",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "program",
+      "amount": 365,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "135ec089-07b1-41dc-beae-3c3689fe0eb7",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "interface",
+      "amount": 773,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "a631a307-6436-451b-b9c8-4bba414e7447",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 668,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "f04ed60a-6223-40bf-9c7a-5a7b5a4d0185",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "bus",
+      "amount": 562,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "dfb92fa5-6628-477c-9696-afae104c7098",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "matrix",
+      "amount": 133,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "8bbac457-034a-442d-96e8-a295cdd81758",
+    "month": "MAY",
+    "transaction": {
+      "title": "firewall",
+      "amount": 847,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "41a6c535-fbb4-4cdd-a3bd-7679c7cb5b1c",
+    "month": "JUNE",
+    "transaction": {
+      "title": "monitor",
+      "amount": 36,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "ba0b411a-57d1-4ed1-bc1b-13e6028be032",
+    "month": "MARCH",
+    "transaction": {
+      "title": "system",
+      "amount": 726,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "4c6a2c02-586f-4e8d-80a5-1f108f4d32e9",
+    "month": "MARCH",
+    "transaction": {
+      "title": "feed",
+      "amount": 576,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "010328ce-b161-4f4c-8a15-258dc30d8e4c",
+    "month": "MAY",
+    "transaction": {
+      "title": "feed",
+      "amount": 600,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "a18ad636-cb13-498f-9d80-c53cea19cc54",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "microchip",
+      "amount": 181,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "547df808-a28f-40f7-bbc2-163d1a1d38f3",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "circuit",
+      "amount": 235,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "7ebf8b69-f196-4c44-a7d3-f2785aaa6b60",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "microchip",
+      "amount": 166,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "55311ba6-3297-4235-97ce-b4482689e8d0",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "protocol",
+      "amount": 239,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "347849df-daab-4c19-9349-842c1c62edb0",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "array",
+      "amount": 49,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "22d23aa0-338d-43b1-bba1-e8d82d33c14a",
+    "month": "MARCH",
+    "transaction": {
+      "title": "protocol",
+      "amount": 909,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "477808a3-0ccf-4bc2-b556-40c11f3475b2",
+    "month": "MAY",
+    "transaction": {
+      "title": "program",
+      "amount": 636,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "fc95d0d6-8b4d-404f-9a6b-9b2965742306",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 332,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "b022d500-84da-4d1e-9fe7-da2dc4ecafa8",
+    "month": "JULY",
+    "transaction": {
+      "title": "interface",
+      "amount": 594,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "0ff43d36-feda-46a0-9a24-368694b9f9c2",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "application",
+      "amount": 696,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "242cbadd-e2e1-4f33-9899-28947227cfa9",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "application",
+      "amount": 598,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "07462ac9-3c0f-49cd-a90d-01cc2e64f3a4",
+    "month": "JULY",
+    "transaction": {
+      "title": "port",
+      "amount": 257,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "e6c56de8-7400-44eb-8e17-8bbd1c2dc581",
+    "month": "JUNE",
+    "transaction": {
+      "title": "panel",
+      "amount": 441,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "3b220ead-eb9f-409a-96d7-5a23cf904bc3",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "driver",
+      "amount": 885,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "a5bd6124-98d8-404c-8cf2-0d5f737447d3",
+    "month": "MAY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 422,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "e85dc70c-75e7-44e0-9f8e-497d786cc2c8",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "panel",
+      "amount": 991,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "1579f377-8a07-4c1f-b608-741325857819",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "matrix",
+      "amount": 242,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "d14e07b7-bbad-43eb-878b-04bcb0a0f70d",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "alarm",
+      "amount": 284,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "9a917996-0f62-48da-ae82-070f4c4f8bfe",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "panel",
+      "amount": 734,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "29e796c1-02d1-4fa1-8233-f3e6420aea1e",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 94,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "51867b0b-9896-48fa-80f5-fa6f80981342",
+    "month": "APRIL",
+    "transaction": {
+      "title": "bus",
+      "amount": 285,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "20a006e0-86f9-4409-815f-bbb4d784e9e0",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "array",
+      "amount": 723,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "9f48369f-a718-43fb-b639-794e3afb688a",
+    "month": "JULY",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 283,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "46c4cbd9-4e3a-4eee-933b-798896900221",
+    "month": "MAY",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 266,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "d58fe6a1-a269-4ab5-9dc9-59d1a2f744a5",
+    "month": "MAY",
+    "transaction": {
+      "title": "interface",
+      "amount": 804,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "984bcce6-9674-48a3-b634-2f26648e184e",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 409,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "38e140b1-3e04-479f-b4c0-f53974b51a83",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "monitor",
+      "amount": 188,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "8cbf84de-d0dc-4b61-a65a-edde90c50ed1",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "circuit",
+      "amount": 414,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "3c358a07-76ee-47c9-be3f-970a4712ce22",
+    "month": "APRIL",
+    "transaction": {
+      "title": "application",
+      "amount": 686,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "0b62c43e-d0ce-462f-94b3-2f147c75f6ba",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 293,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "365fdf91-db9d-4cea-8399-2f8b2b0f98ff",
+    "month": "JULY",
+    "transaction": {
+      "title": "card",
+      "amount": 37,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "47b41149-c449-4e9b-a99f-4d764fd11055",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 658,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "13881d94-81fa-414f-895f-aa73b09e470b",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "system",
+      "amount": 454,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "171b418c-9ac3-4a61-8225-7e15b34af41f",
+    "month": "MAY",
+    "transaction": {
+      "title": "alarm",
+      "amount": 201,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "cae7b09f-6ef7-490b-8f88-69a3e7f25065",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "alarm",
+      "amount": 115,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "9532f06c-63d1-42e6-80e2-1ec3c62be5a2",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "panel",
+      "amount": 723,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "245ed858-7373-41a0-918e-851717dbb9c6",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "firewall",
+      "amount": 695,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "fe46bd32-1967-47cd-9fd7-02c6960db7f5",
+    "month": "JULY",
+    "transaction": {
+      "title": "alarm",
+      "amount": 626,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "6868f74c-8380-4f1e-8a17-2de4894bd106",
+    "month": "MAY",
+    "transaction": {
+      "title": "alarm",
+      "amount": 278,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "5bf4cfc3-9205-4ad0-84f3-8e66adb504d9",
+    "month": "MARCH",
+    "transaction": {
+      "title": "system",
+      "amount": 349,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "1c652144-4b00-4114-b688-6d7bb6c5af95",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 170,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "53749861-0016-4137-88b9-f229414f8e80",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "microchip",
+      "amount": 138,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "b24aaf5b-1c87-410c-a172-d1ec01fab36d",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 208,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "acc6c28f-88fe-491e-b17e-23bc1dad31f6",
+    "month": "JULY",
+    "transaction": {
+      "title": "program",
+      "amount": 412,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "f10d1e7b-8deb-4972-a2e6-bc98cd1c006f",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "pixel",
+      "amount": 263,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "244c8878-589c-4a3c-8668-3ae5b97e469f",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 636,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "fd89090c-8283-4013-a889-b03e484f1d6c",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "microchip",
+      "amount": 396,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "c37abe48-b3e4-4656-a604-73217694c0c7",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 518,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "dbf76fd0-3010-4d68-a646-59552136b97d",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "program",
+      "amount": 844,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "6e705484-b9d1-468b-afa6-ceabff22ab75",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 979,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "13987ff8-aff4-40f7-ac06-db6da40d4517",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "matrix",
+      "amount": 559,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "612b43a2-7b32-4e91-9eec-d61052645dd5",
+    "month": "MARCH",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 411,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "621dce01-ccd8-450c-a50e-b2ad08e55a89",
+    "month": "APRIL",
+    "transaction": {
+      "title": "application",
+      "amount": 253,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "0486fbb4-aecc-4b7b-8b70-66f1a8d9ed36",
+    "month": "APRIL",
+    "transaction": {
+      "title": "feed",
+      "amount": 848,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "dbcafc3d-2445-40fe-a4d3-57289c094595",
+    "month": "JUNE",
+    "transaction": {
+      "title": "program",
+      "amount": 402,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "c00e9b2e-a205-485d-bb03-588cf76770a0",
+    "month": "MAY",
+    "transaction": {
+      "title": "protocol",
+      "amount": 135,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "c1b1db7b-547f-4ed7-abcf-cd17043e7172",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "driver",
+      "amount": 585,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "90a56e5c-19b1-4421-b821-9f689a0c92d1",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "firewall",
+      "amount": 831,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "4afbce35-a000-4e6a-ab3c-c6a5659dff8e",
+    "month": "APRIL",
+    "transaction": {
+      "title": "microchip",
+      "amount": 503,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "7b4d3d33-4bb7-4d98-9b3f-a7fc7927b692",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "monitor",
+      "amount": 429,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "ca4a1096-80c8-4d71-b89c-a760156ea545",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "program",
+      "amount": 850,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "4b79e53e-2c78-4e9d-acbd-2d55c08f4f59",
+    "month": "MARCH",
+    "transaction": {
+      "title": "card",
+      "amount": 281,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "17acfda1-8b86-41bb-8e57-aa086cb134e2",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "sensor",
+      "amount": 647,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "c0476e57-ff6d-4b86-bb63-88100ad81d7f",
+    "month": "JUNE",
+    "transaction": {
+      "title": "microchip",
+      "amount": 561,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "8a51d1d8-081f-42a6-a602-8314dce0e1bc",
+    "month": "JUNE",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 580,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "34751225-e8ef-4045-9b6a-908b4d3cfab8",
+    "month": "JUNE",
+    "transaction": {
+      "title": "circuit",
+      "amount": 214,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "e33597d5-4031-4978-b39d-b71dd6c9e118",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "protocol",
+      "amount": 6,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "b771cdd9-c8d7-4292-88d3-42e155e535db",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "pixel",
+      "amount": 735,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "ee5bf2c6-8ec5-44b8-966b-c7823a80e560",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "port",
+      "amount": 452,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "d589d1e9-de0e-4f9d-ad91-833179746a6e",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "matrix",
+      "amount": 931,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "3e726883-0deb-4ba4-a5ac-7016d00d4866",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "card",
+      "amount": 98,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "25c83898-425e-4491-a7a4-20728e915dc2",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 566,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "f2d53bf6-d62d-408d-859f-619ede1cf02a",
+    "month": "JUNE",
+    "transaction": {
+      "title": "card",
+      "amount": 860,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "57b85903-5e64-4e68-8efd-1f925d3064ad",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "feed",
+      "amount": 947,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "408c6746-41d3-455a-907b-f4ddd68053d4",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "protocol",
+      "amount": 167,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "6a4bbd66-3dc4-4fb4-969d-e9aef64a3af4",
+    "month": "MAY",
+    "transaction": {
+      "title": "interface",
+      "amount": 746,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "00100035-b353-4cdf-b519-6c3e8d2516dc",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 281,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "6bc779f0-d2ad-471c-a6d0-8dfa0ef9bc9e",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "bus",
+      "amount": 938,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "3d3f0a0d-3075-4913-b5d8-a03d3ae3eaf3",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 599,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "455a913a-11a6-4a49-8438-83ace2b5f5c5",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "port",
+      "amount": 488,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "642027fb-b28f-4dbd-a33c-724d88cf3235",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 44,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "dbd1fdf7-9d42-4389-a31f-1993b90790ed",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "bus",
+      "amount": 92,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "1939cdf3-8c97-47bd-851a-9fb39d532714",
+    "month": "JULY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 91,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "9b3bf17d-523d-4386-8e2c-9e64e668fefb",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "driver",
+      "amount": 521,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "f36c142f-7fa1-4635-b91c-2a7991934d3c",
+    "month": "JUNE",
+    "transaction": {
+      "title": "firewall",
+      "amount": 156,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "e23a6237-16db-45e9-b38b-6dd43b5efc39",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 100,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "81027ef9-5180-42e2-8d77-6c42eee5cafb",
+    "month": "MAY",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 604,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "572e465b-2226-4653-9af4-75f3f7337952",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "matrix",
+      "amount": 544,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "9fe33faa-4a9e-46b1-8580-7c0f15b2849a",
+    "month": "MAY",
+    "transaction": {
+      "title": "panel",
+      "amount": 501,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "8da4d30f-36a5-4ffe-9efa-76fb744566e1",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "protocol",
+      "amount": 497,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "cb5de8b9-4434-4654-a2fc-ea35efddb1aa",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "card",
+      "amount": 298,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "40faf7d4-edd0-4e3f-b6f4-bb9cd4946ef3",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "sensor",
+      "amount": 640,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "b944346d-fdec-43b1-bc3e-d5666b2d1065",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 247,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "2c19e20a-8dc1-4b59-9f81-4f93b2db0771",
+    "month": "MARCH",
+    "transaction": {
+      "title": "card",
+      "amount": 385,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "84d82965-8b84-4300-9714-d9ab7fccf0a0",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 260,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "b87d22f3-c082-4fb3-bf1a-ab90dc723f95",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "protocol",
+      "amount": 674,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "1ef1058f-1be5-42ae-9ae0-5dc75af17a26",
+    "month": "JUNE",
+    "transaction": {
+      "title": "alarm",
+      "amount": 554,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "a8faf41a-6c29-49a0-a418-31a4d57184fc",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "firewall",
+      "amount": 263,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "1055e718-d960-4af5-ae64-b642b161f93c",
+    "month": "JUNE",
+    "transaction": {
+      "title": "sensor",
+      "amount": 385,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "14aeb88b-31b1-419e-8e2a-58a62812c62e",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 924,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "7b1d4c97-3f77-490f-80a3-7e66513cb804",
+    "month": "APRIL",
+    "transaction": {
+      "title": "microchip",
+      "amount": 140,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "ea44604b-be3a-4e66-837f-6e1ad1d1a20f",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 800,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "8f61c520-5005-4b00-9c53-4e9faf590afa",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 885,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "b9de6db1-4ce1-44fe-9b72-a6e3f6b9436a",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "firewall",
+      "amount": 782,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "2bcc85d0-60db-4368-927d-ce2a931b355f",
+    "month": "MARCH",
+    "transaction": {
+      "title": "feed",
+      "amount": 676,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "acfb0462-f492-4dc0-8be0-4b395e793b60",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "matrix",
+      "amount": 695,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "00412163-e557-4008-a33e-16cbfd4ef93c",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "pixel",
+      "amount": 831,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "a83c8e71-1857-466a-8c78-b4f8f1348c3d",
+    "month": "MAY",
+    "transaction": {
+      "title": "matrix",
+      "amount": 597,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "9e18668c-e19c-4839-aca1-312331aa14e6",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 513,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "c7f66b17-1b86-45a5-bbf2-2f6b94d0572d",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "panel",
+      "amount": 142,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "14eb779f-f9be-4cdf-9b9e-34c17acc638b",
+    "month": "APRIL",
+    "transaction": {
+      "title": "program",
+      "amount": 463,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "f14c7b18-14be-4ac6-a3f8-8e142213d532",
+    "month": "JULY",
+    "transaction": {
+      "title": "protocol",
+      "amount": 821,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "9526ce71-4ebc-4ddf-90e9-a388412cc3c0",
+    "month": "JULY",
+    "transaction": {
+      "title": "program",
+      "amount": 969,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "01c029ea-a553-4982-b061-62f7c3a3dbb3",
+    "month": "JULY",
+    "transaction": {
+      "title": "application",
+      "amount": 859,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "333f7374-1e23-4342-ade0-ba9c92080cd4",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "circuit",
+      "amount": 328,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "d7b44a30-80e7-4cdf-90aa-b771b9be407f",
+    "month": "MARCH",
+    "transaction": {
+      "title": "circuit",
+      "amount": 468,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "8f4e430b-bd09-42eb-b211-bab8a6dda8df",
+    "month": "MAY",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 194,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "d8ab357b-54f8-421c-b8dd-441daaf90063",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "port",
+      "amount": 144,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "1f35ca1e-2ab6-4150-afb9-4bb97a903670",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 101,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "8e876c9f-1153-4bf5-b884-0ce4c2a74eb5",
+    "month": "MARCH",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 155,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "150c0bf9-f138-4413-9006-f25ca97e0528",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "array",
+      "amount": 954,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "458a91b7-ae32-4ce2-af1b-5d632931e1d2",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "feed",
+      "amount": 315,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "9cc3630e-cc4f-471e-82d3-38051370afb8",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "feed",
+      "amount": 983,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "0cd61ce1-0c0b-4c0a-909d-da1fe38f4745",
+    "month": "MARCH",
+    "transaction": {
+      "title": "sensor",
+      "amount": 581,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "90b829f5-9d1b-44fb-9086-bc9e7534ab51",
+    "month": "MAY",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 592,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "20073b1a-f70b-4c5e-a240-f0bf7a90740d",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 270,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "6e28dfb0-a9c3-43a5-8bcc-8409b80a8c06",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 480,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "97b53293-4bb8-4711-b708-65cfe4f3205b",
+    "month": "JULY",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 467,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "082a280e-744f-408a-a76e-6166cdbbb474",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 248,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "217264eb-6f64-42eb-999f-81c2f9b1fc49",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "bus",
+      "amount": 800,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "48eeb543-9c92-4aff-9dfd-d004a73b0542",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "port",
+      "amount": 96,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "4c409949-fd33-4153-8d9a-f6ebe1634803",
+    "month": "APRIL",
+    "transaction": {
+      "title": "application",
+      "amount": 873,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "34a3f396-9a7d-4912-a456-8ba5df6fef1f",
+    "month": "JUNE",
+    "transaction": {
+      "title": "matrix",
+      "amount": 399,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "1a7b8ac5-e9e1-40e9-b7d0-8760788c36d0",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "application",
+      "amount": 184,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "4ce833d9-4939-41a3-8520-b12ba177206a",
+    "month": "JULY",
+    "transaction": {
+      "title": "protocol",
+      "amount": 419,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "4f7510f1-c7bc-481f-bc03-e4d2c2d00db1",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 10,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "577ac0fd-7a84-47fa-a1bb-d3eec8c29d52",
+    "month": "MARCH",
+    "transaction": {
+      "title": "driver",
+      "amount": 844,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "50874327-4a86-405b-8265-5898b84fff9a",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "feed",
+      "amount": 194,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "2c9103e4-0728-4451-8ed5-10f9e0242a39",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "feed",
+      "amount": 78,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "fd29b9cc-0c41-4219-a739-59216dcb0353",
+    "month": "APRIL",
+    "transaction": {
+      "title": "card",
+      "amount": 619,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "23b3bf0c-b46c-40eb-b637-3042311cc78f",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 243,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "bb872a29-a0bc-4b97-bd02-26d1a3c3664a",
+    "month": "APRIL",
+    "transaction": {
+      "title": "sensor",
+      "amount": 11,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "74f19412-8059-4b17-8956-4ccec26e9e3a",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "bus",
+      "amount": 215,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "30052d00-434d-4e75-bd5a-2d6eb50d622b",
+    "month": "JULY",
+    "transaction": {
+      "title": "array",
+      "amount": 643,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "3ee463b2-cce8-4b7e-8b44-5bb6cb5ee104",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "protocol",
+      "amount": 796,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "5eca83f9-6285-4b92-b534-c24821978ac5",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "panel",
+      "amount": 684,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "1a4fb65d-1fd3-4000-93eb-e918d324f505",
+    "month": "JULY",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 495,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "24186893-56c4-4d26-a2bd-47646d3cd57a",
+    "month": "MAY",
+    "transaction": {
+      "title": "alarm",
+      "amount": 427,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "fa428f4a-ded8-498e-ba64-7b88dd640502",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "application",
+      "amount": 637,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "1157b7fa-be23-4644-97da-ed88da47971a",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "pixel",
+      "amount": 732,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "bc9a1ead-c19e-4d48-b266-088f5b5c9638",
+    "month": "JUNE",
+    "transaction": {
+      "title": "matrix",
+      "amount": 424,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "af85899f-2dad-422a-95d9-274f7d71044e",
+    "month": "MARCH",
+    "transaction": {
+      "title": "feed",
+      "amount": 38,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "7841b5c4-7f89-4d64-9468-166754b09963",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "sensor",
+      "amount": 127,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "50e1a8eb-fab8-4dda-a9c6-e55adbf892ef",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 500,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "73a5d7f1-eb40-4941-b9fc-68e3cf526e17",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "monitor",
+      "amount": 679,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "5acd8dbc-4d94-4d05-b165-4977638baa3a",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "panel",
+      "amount": 133,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "f7827881-453c-4936-8039-b4522b4befe8",
+    "month": "MARCH",
+    "transaction": {
+      "title": "driver",
+      "amount": 8,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "4e37fe7b-de64-463d-8147-07bb7a61da24",
+    "month": "MAY",
+    "transaction": {
+      "title": "system",
+      "amount": 421,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "7bc31e56-a46b-490c-9d15-d4ef698ede7c",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 112,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "1f7b5dfc-1ecb-4f64-849e-9c5301c6f370",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "system",
+      "amount": 641,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "778f5f36-dd19-4041-b3f1-a54f6960d626",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "pixel",
+      "amount": 60,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "60f9c643-a0cc-4c5f-906f-204919c52ce1",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "matrix",
+      "amount": 840,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "de7cd2c3-4f36-48cd-a094-ca9fe62086a5",
+    "month": "MAY",
+    "transaction": {
+      "title": "sensor",
+      "amount": 389,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "1ec81244-01cc-4818-b4f0-69875cc17760",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 549,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "d6acac90-380a-4649-a9d1-ce3b3b874b99",
+    "month": "JULY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 585,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "d0535109-6a1a-4968-b84a-4005370d8b1e",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "feed",
+      "amount": 842,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "166a1a13-13e1-45d0-a781-eebddbf54098",
+    "month": "APRIL",
+    "transaction": {
+      "title": "array",
+      "amount": 598,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "33cb1702-8e2d-4fad-93cb-794dbc85d446",
+    "month": "MAY",
+    "transaction": {
+      "title": "program",
+      "amount": 4,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "1c1151ad-7d16-4845-87b9-8dd40f4172cd",
+    "month": "JUNE",
+    "transaction": {
+      "title": "array",
+      "amount": 759,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "59e9f346-24fc-4250-9cd4-c8189624fb94",
+    "month": "APRIL",
+    "transaction": {
+      "title": "driver",
+      "amount": 148,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "f23a213f-d6c4-42e4-a763-b44e0a68c3b0",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 611,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "9bf8e629-0b7f-466f-9654-393a305f5f04",
+    "month": "MAY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 615,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "6d515723-4922-43cd-9023-930db306a22f",
+    "month": "MARCH",
+    "transaction": {
+      "title": "circuit",
+      "amount": 7,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "35caa0b0-3506-43a9-85a1-9da0f561435e",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "system",
+      "amount": 124,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "160d3077-dfc9-4a0a-a5c6-e357e77dad99",
+    "month": "JUNE",
+    "transaction": {
+      "title": "interface",
+      "amount": 203,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "e896c936-bf4f-4e57-ae94-c2e6cd9f0601",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "sensor",
+      "amount": 488,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "537f91be-aa27-4334-aa4a-8b78f759fb47",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "microchip",
+      "amount": 286,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "b995a9fb-99eb-4652-91a3-1ec3f9434b8d",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "application",
+      "amount": 146,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "a9a2b9d3-00cf-466c-bbff-072ddf8cd67a",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "pixel",
+      "amount": 582,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "0e2b3407-e8b5-46c4-b0f3-33d21bb87ba7",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 278,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "f63f1e42-da63-4dc5-8be6-f57a481c0932",
+    "month": "MAY",
+    "transaction": {
+      "title": "driver",
+      "amount": 639,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "43404e8a-e677-4927-b02e-5cd00ef7d78b",
+    "month": "MAY",
+    "transaction": {
+      "title": "matrix",
+      "amount": 577,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "16e829a1-403d-4d2a-bc7e-ef068f82326a",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "array",
+      "amount": 753,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "833af00c-7b57-400e-a91d-aec2cbc0e182",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "panel",
+      "amount": 504,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "3f913279-6efa-4e7d-b4ac-ae7aa1dfa73c",
+    "month": "JULY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 635,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "26e7eb66-094b-4884-b726-0d0fafbbffc8",
+    "month": "JUNE",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 833,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "b9fc72a6-0eba-43cc-a5b0-dd11a52fe03f",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "card",
+      "amount": 201,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "63d35e5e-8275-499e-84be-6340e6c22d99",
+    "month": "MARCH",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 831,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "9b70cd15-7057-4dd0-8f57-07d9b6b32e0c",
+    "month": "MAY",
+    "transaction": {
+      "title": "monitor",
+      "amount": 994,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "06a564c3-c084-4058-b108-170478c3fd56",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "card",
+      "amount": 330,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "4b1a4b8a-d22f-4828-ba69-75cdfb14b5d1",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "firewall",
+      "amount": 585,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "4738a82b-30a7-41ca-b15b-396aa962be2e",
+    "month": "MARCH",
+    "transaction": {
+      "title": "array",
+      "amount": 246,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "828a8be2-89d6-4a41-9970-3d3846c85fcf",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "port",
+      "amount": 541,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "c57d2b37-ab9a-4299-ac02-658f370ce206",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 744,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "2981a10f-98a4-417b-8437-89979d417c77",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "microchip",
+      "amount": 629,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "00ede021-c49f-4117-a684-981d24413b1b",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "card",
+      "amount": 120,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "66acecd5-2a1f-4fd7-b823-48e6d156f100",
+    "month": "MAY",
+    "transaction": {
+      "title": "driver",
+      "amount": 289,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "9cf529ab-1e59-4b08-9ab7-9ab2c5e0e597",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "card",
+      "amount": 201,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "84156e19-be26-47ee-9efc-3e043de08b3c",
+    "month": "MARCH",
+    "transaction": {
+      "title": "alarm",
+      "amount": 645,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "3bafc1f1-9f9b-4dc0-a835-6eed5f7461ef",
+    "month": "MARCH",
+    "transaction": {
+      "title": "circuit",
+      "amount": 735,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "80166076-59bd-4bdb-a559-53fdd58ac7c1",
+    "month": "JUNE",
+    "transaction": {
+      "title": "matrix",
+      "amount": 870,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "c8199722-6011-40b7-bcf8-20eae537d370",
+    "month": "JUNE",
+    "transaction": {
+      "title": "protocol",
+      "amount": 468,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "84de6a7e-5f10-44a6-9e88-b273f11cc5f5",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "sensor",
+      "amount": 49,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "afc0dbf8-0cf6-47ad-80df-b81ca55823f7",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "panel",
+      "amount": 371,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "697c6bad-ff58-4ee9-bb79-08c9635e6067",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "matrix",
+      "amount": 481,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "0d246041-51cd-45dd-b7da-6296751700c2",
+    "month": "MARCH",
+    "transaction": {
+      "title": "protocol",
+      "amount": 630,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "a4e770a4-033c-4193-ae1a-e450b490e3b2",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "port",
+      "amount": 607,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "824b2c28-0b1f-4413-ac62-1d7e59ba5711",
+    "month": "JULY",
+    "transaction": {
+      "title": "driver",
+      "amount": 22,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "32b3322a-6794-4117-b7fd-20b0893bf362",
+    "month": "APRIL",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 240,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "7e33b116-99b7-498d-bdf6-7980c887976c",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "sensor",
+      "amount": 871,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "eeb05942-072e-4a70-9c83-af1cf8d5fcfc",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 524,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "24b4617b-4b8f-4391-9a99-9df0b7603a85",
+    "month": "JUNE",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 798,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "bc29148c-bff2-47de-b0b4-8421e5f7b3e8",
+    "month": "JULY",
+    "transaction": {
+      "title": "interface",
+      "amount": 845,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "8c47175e-7127-4efd-a6bc-04aff6cd94e1",
+    "month": "APRIL",
+    "transaction": {
+      "title": "interface",
+      "amount": 448,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "38ed087d-227f-4b8d-be8a-9c0e09568a27",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "firewall",
+      "amount": 542,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "15d27dde-0796-4335-b364-b9c8401109c4",
+    "month": "JUNE",
+    "transaction": {
+      "title": "pixel",
+      "amount": 156,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "cca8c873-3ba7-4f1a-83a8-43333553612d",
+    "month": "MAY",
+    "transaction": {
+      "title": "card",
+      "amount": 178,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "be4ec8e6-e38a-4035-a7cd-6dc0ff0f1341",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "card",
+      "amount": 303,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "8e66ba20-3c74-4550-9dab-2293fedd6025",
+    "month": "JULY",
+    "transaction": {
+      "title": "interface",
+      "amount": 117,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "257d5ce1-11d3-4989-b348-d42fc0862db5",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "firewall",
+      "amount": 839,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "0c34b66e-9ffb-4104-8514-68d47263cbc9",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 894,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "08c43f88-279c-479e-a154-089538951112",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 363,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "f95d7f4a-3a33-48be-bd0c-1d000a7b486b",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "application",
+      "amount": 156,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "1ecda2f9-38cd-47a7-b089-d35da1999933",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "program",
+      "amount": 231,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "2752ea23-fc80-4d74-8bd9-37e2c262e363",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 239,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "427ae65a-dc41-4c43-8495-b883c297a7e5",
+    "month": "MAY",
+    "transaction": {
+      "title": "driver",
+      "amount": 70,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "f237fd33-90cf-41df-ad5a-4be2a34a23b3",
+    "month": "JUNE",
+    "transaction": {
+      "title": "sensor",
+      "amount": 684,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "9f09b1df-2083-4c32-be8b-016132af02a3",
+    "month": "APRIL",
+    "transaction": {
+      "title": "program",
+      "amount": 328,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "4bfb1c64-982f-4d3e-b2dd-aa2531099aa1",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 717,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "388e8281-6178-446c-8286-163d05042533",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "protocol",
+      "amount": 991,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "c7b68465-db43-4337-9055-411a3127238c",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 682,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "aa86467f-7776-4b6a-bba7-1493da4fffe5",
+    "month": "MARCH",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 94,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "851b15c6-f7e6-4b3e-8570-98b6ca4b684b",
+    "month": "MAY",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 462,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "dd104431-6793-4ab4-a6e5-8a41da3f9351",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "system",
+      "amount": 826,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "cd5fd2e4-7273-4cae-a30c-026a8826e23f",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "array",
+      "amount": 142,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "919dc3c0-b712-4497-b89d-7c3a7f77a47e",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "driver",
+      "amount": 299,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "e94be922-9344-43d5-8bda-7ebda2370bdd",
+    "month": "JUNE",
+    "transaction": {
+      "title": "pixel",
+      "amount": 311,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "0ec7caca-2046-4382-bdd0-c00b7867703c",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "protocol",
+      "amount": 797,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "e47daa68-3503-4cc4-a3bf-6757f120c2df",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 309,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "e787bcc0-f439-4a75-a7c0-774fef9f7ebc",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 946,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "1ed2cbca-8168-4d85-9c06-a8ce9ae2c5d7",
+    "month": "MARCH",
+    "transaction": {
+      "title": "sensor",
+      "amount": 990,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "be14d525-d9c1-4c65-97f8-061234c057fd",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "interface",
+      "amount": 837,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "6fc3bd96-8e7c-42e5-824e-c13add75ee31",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "system",
+      "amount": 935,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "a867ce73-1456-4454-98d5-ba7a8e1d7386",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 287,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "4dee04ce-cb0f-414e-a593-3034c5c3780f",
+    "month": "MARCH",
+    "transaction": {
+      "title": "circuit",
+      "amount": 577,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "54ac6c1d-6c97-4652-9f1e-cf310c931f67",
+    "month": "JUNE",
+    "transaction": {
+      "title": "circuit",
+      "amount": 72,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "b1d3328a-1feb-40bd-9a07-38de0de52bd4",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "microchip",
+      "amount": 73,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "869ab2f5-8cc3-4abf-abec-bc374b59f85e",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "alarm",
+      "amount": 794,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "f23801ea-4a22-4396-87f9-fa56fd75c1bc",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "feed",
+      "amount": 412,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "58e416ea-4759-4169-96fe-b2f3a17c798f",
+    "month": "APRIL",
+    "transaction": {
+      "title": "sensor",
+      "amount": 466,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "df985b55-8a96-41a5-9cdc-395c2f4265d1",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "interface",
+      "amount": 653,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "4793466d-7359-42be-8b6c-0d5361a91b4d",
+    "month": "APRIL",
+    "transaction": {
+      "title": "array",
+      "amount": 426,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "5f9871cd-6293-43eb-b44a-e7ad3a939eda",
+    "month": "JUNE",
+    "transaction": {
+      "title": "firewall",
+      "amount": 23,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "4c186847-a113-4fdc-8f5e-be39e07bd529",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "application",
+      "amount": 378,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "ff57f30b-f783-434c-8467-7fa5f1c69fce",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 569,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "bb365fe7-f461-4c37-8575-7b810500ac23",
+    "month": "MAY",
+    "transaction": {
+      "title": "pixel",
+      "amount": 917,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "5db17d93-0635-4f4a-b44b-8664e59d82ef",
+    "month": "MAY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 832,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "df6fd8e1-8f25-4f75-b7f9-bab21244a558",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "protocol",
+      "amount": 277,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "0371f734-9043-4553-8328-b1608518c1b4",
+    "month": "JULY",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 688,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "455c804e-52b7-4cf5-bc95-bdd21ee7ca84",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "port",
+      "amount": 352,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "aaea92c8-c781-4088-828b-085618bd03c9",
+    "month": "MAY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 359,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "a19de849-bf70-4616-96b3-a9a16037e30c",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "bus",
+      "amount": 52,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "bc42027a-5521-46bb-9393-03de40996dc6",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 756,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "a061b122-a8ef-4d18-b568-a4ea5f25901f",
+    "month": "APRIL",
+    "transaction": {
+      "title": "microchip",
+      "amount": 542,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "d8e0b145-0bd9-4312-a165-6beccac57deb",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "circuit",
+      "amount": 20,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "d9be3b33-577b-430e-8af9-bcdb994dd883",
+    "month": "JUNE",
+    "transaction": {
+      "title": "circuit",
+      "amount": 185,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "afa674f3-2e20-4bed-921a-e06cadaa74c1",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 72,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "715d37ff-b437-4c59-9c72-fc1ba62cd330",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "array",
+      "amount": 20,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "5aa9f49d-63ce-4fce-8f48-aadd2178a7e0",
+    "month": "MARCH",
+    "transaction": {
+      "title": "array",
+      "amount": 345,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "63c3c813-bd11-4910-a3f5-bf5d72e24e86",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 214,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "625cf8bc-733e-40a3-98a9-f132d7f36e1e",
+    "month": "JULY",
+    "transaction": {
+      "title": "matrix",
+      "amount": 945,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "0666aec9-3dac-4874-8f56-e0fd56ef49a6",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "application",
+      "amount": 522,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "252c7ab8-e792-429a-b8ed-c8b4373db6cf",
+    "month": "JUNE",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 27,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "2e6f102c-0278-429f-a84c-e5e3cdd37d5e",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "system",
+      "amount": 870,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "75d4b29d-e826-495b-8225-7343545c698a",
+    "month": "MAY",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 337,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "708ec5e9-4d65-43cb-82ff-18bb1116978c",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "feed",
+      "amount": 965,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "e925a2ef-fe39-4963-a7c9-a75b28ebdb1e",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "interface",
+      "amount": 217,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "a60b9ae7-0371-4e7b-b475-f4732c2bd8a7",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "protocol",
+      "amount": 607,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "da05a773-4c74-47c1-adb5-8db0e6f5d637",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 796,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "26a89b2c-8b8f-4da6-ac5e-3b99f1915552",
+    "month": "APRIL",
+    "transaction": {
+      "title": "sensor",
+      "amount": 639,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "28a3d255-d198-47da-839c-5fec12621209",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "port",
+      "amount": 536,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "fc5d0143-9da3-413d-a0a6-f3161f2e8c9f",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "monitor",
+      "amount": 861,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "3f66a32b-b0ab-42fd-b9dc-36c873c4b21c",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "alarm",
+      "amount": 35,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "2a6eb0b1-4094-41fd-b197-5c015f7c71c8",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "card",
+      "amount": 477,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "b13e1516-7b25-4907-961d-afe66d40038e",
+    "month": "APRIL",
+    "transaction": {
+      "title": "card",
+      "amount": 747,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "a844a308-2fa8-460d-a6c6-72a2eca4a41f",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "array",
+      "amount": 982,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "de39252e-8aa5-4926-b49f-122c5b18c98b",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "panel",
+      "amount": 706,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "98ebe8b8-19ce-42e4-a7f6-c6f8e06d0d3e",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "matrix",
+      "amount": 808,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "0c945ed3-86ef-423f-a773-ea7018c4f718",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "array",
+      "amount": 423,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "66624f30-c9b8-40b4-a0b6-fa58617f25e9",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "alarm",
+      "amount": 962,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "76ee755a-ff74-4212-8db9-c441bc77738b",
+    "month": "JULY",
+    "transaction": {
+      "title": "matrix",
+      "amount": 578,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "5c493d2d-cc14-49c8-a806-b398c13e61d9",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "monitor",
+      "amount": 900,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "b157b1a6-e9b7-40c0-8ed3-c3d299fcf5a8",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 633,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "135089d9-4486-4fe8-a11b-c061aae762fe",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 591,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "5aef7800-6494-4739-b467-e3e62df90941",
+    "month": "APRIL",
+    "transaction": {
+      "title": "system",
+      "amount": 150,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "7663aaa0-22e3-4783-96ca-5c4f39723529",
+    "month": "JULY",
+    "transaction": {
+      "title": "panel",
+      "amount": 644,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "84b1d26a-2ac9-425c-8f34-822cff0e7402",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 103,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "b1953197-8249-4cba-95be-14e7b602ddbf",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "program",
+      "amount": 630,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "ab631bff-080e-4503-8100-0dc204693a9e",
+    "month": "APRIL",
+    "transaction": {
+      "title": "monitor",
+      "amount": 725,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "51412a71-c46b-4b18-bc1a-9dcd195af045",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 726,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "c6abc08b-8ade-4bba-8815-26f5ce52ce43",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "sensor",
+      "amount": 30,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "e7537fb0-fd32-4026-88d4-beba5b8d8538",
+    "month": "APRIL",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 402,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "e2b41292-5e24-4355-a278-843faacbba1a",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 106,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "574cba49-4cc3-49a3-b70c-73d5f91a6aed",
+    "month": "MARCH",
+    "transaction": {
+      "title": "microchip",
+      "amount": 192,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "2c00258e-053c-40d9-b063-fbc70ab4be9d",
+    "month": "JULY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 367,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "8d95b151-35e4-4de3-9bfc-33cade2a62c4",
+    "month": "JUNE",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 862,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "fcb174c9-7e7c-452d-9223-f536f39e9dfe",
+    "month": "APRIL",
+    "transaction": {
+      "title": "firewall",
+      "amount": 177,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "0f13fbb4-9a84-43b4-b6a0-e7c59eb3af01",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 204,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "1c1d8bee-cb18-422f-b3be-b17f4755ad42",
+    "month": "APRIL",
+    "transaction": {
+      "title": "panel",
+      "amount": 36,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "502450b3-606e-46bc-8cf1-ce5ea9b2dba9",
+    "month": "JUNE",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 404,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "be6aacc6-623b-4ecb-9d09-e3783f90adeb",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "alarm",
+      "amount": 750,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "6078ccde-5af6-4ff9-bd19-a5be5f1ad17d",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "microchip",
+      "amount": 146,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "45778c1d-7af9-411c-982b-5b80762f4dcb",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "system",
+      "amount": 536,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "97a050a9-63a9-49f4-bb23-477f7e8e1bdf",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 861,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "80e7f6e4-291e-4d37-bed1-a30a2be9dbc6",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "program",
+      "amount": 752,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "196ec945-7a61-4f1b-8037-917201a5d95e",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "port",
+      "amount": 284,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "57054d50-f047-4ff0-868b-4216c3837774",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "bus",
+      "amount": 597,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "13542b0b-2d18-4008-8b67-866a81923705",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 107,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "32b4343d-bc34-4de7-9d18-7438625a56ed",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "system",
+      "amount": 109,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "14d74cd5-dd4d-4a55-9712-4264266edba7",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "feed",
+      "amount": 142,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "ef2b114b-62e8-45d4-8655-65bee8f35bdc",
+    "month": "JUNE",
+    "transaction": {
+      "title": "system",
+      "amount": 946,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "e9880afd-da91-46a9-a1b3-4d4a73d7dc65",
+    "month": "MAY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 352,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "3963a1ab-f369-482f-8e1f-46670a52561d",
+    "month": "MAY",
+    "transaction": {
+      "title": "sensor",
+      "amount": 966,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "8be3639b-ba1a-43f7-a297-a2172347bd5e",
+    "month": "JULY",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 792,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "38a140af-aad8-4e5b-8e58-825f0d182e63",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 43,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "8550ec8b-c086-43b2-a539-b8e00cdf584f",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "driver",
+      "amount": 211,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "ae47015e-c2fa-4a6a-86b7-840298c58584",
+    "month": "APRIL",
+    "transaction": {
+      "title": "interface",
+      "amount": 356,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "3fda92ca-b975-454d-8110-5062a8b9b298",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "application",
+      "amount": 424,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "cd19adf1-e74a-49da-9f7a-e0f8fbfcd160",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "alarm",
+      "amount": 985,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "cb6cbdac-b40c-43ce-962b-74709491288c",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "card",
+      "amount": 778,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "b050ecc1-4e49-484c-836d-60aeef6f273d",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 701,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "73c4cc81-2c07-4afc-b594-4c9d8bedf225",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "bus",
+      "amount": 525,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "91de71d8-22ed-44d9-84ec-2a41d7964148",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "feed",
+      "amount": 563,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "dac16904-7841-4ea3-ba0f-9cfe2e132939",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "program",
+      "amount": 119,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "1d1bfbc6-5ad3-41d7-84cf-688bec875af6",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 656,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "2362e9cd-8bba-4005-9a38-b388a83df1e5",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "program",
+      "amount": 675,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "db718d7e-e652-4c7d-8d05-691f7b77351f",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "driver",
+      "amount": 114,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "33610465-48d9-4a9c-a1da-d8ba886d0a20",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "program",
+      "amount": 978,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "52880b4d-f86f-4bf2-a89e-246476661d54",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 500,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "5907ce91-01e0-490e-87c9-6110558c53f0",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "alarm",
+      "amount": 629,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "5facd2a3-438a-4ec5-906a-4b079d41539f",
+    "month": "MARCH",
+    "transaction": {
+      "title": "application",
+      "amount": 32,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "fd1e8716-8bdc-4284-822c-ab3ca41fea4e",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "feed",
+      "amount": 549,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "85c747b0-dd45-407e-9f30-388eefc9c051",
+    "month": "JUNE",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 600,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "9646e63c-cd13-40b0-b4b5-cb47c81610b1",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "array",
+      "amount": 379,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "72dee3a4-30b9-442c-9d03-054b603410db",
+    "month": "APRIL",
+    "transaction": {
+      "title": "circuit",
+      "amount": 284,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "e60577af-e00b-427e-ab8a-ed6966b3308f",
+    "month": "MARCH",
+    "transaction": {
+      "title": "program",
+      "amount": 923,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "831bba29-2268-4ee1-97f5-b0da5b5e530f",
+    "month": "MARCH",
+    "transaction": {
+      "title": "circuit",
+      "amount": 650,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "96318a5d-58dc-4573-8ee3-7b1ae178d248",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "monitor",
+      "amount": 940,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "fc4479bc-19af-46a2-ac68-e304cea936cf",
+    "month": "JULY",
+    "transaction": {
+      "title": "matrix",
+      "amount": 566,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "5cf245ff-d2dc-4305-aa72-f46ba9f59b6a",
+    "month": "MARCH",
+    "transaction": {
+      "title": "system",
+      "amount": 552,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "4ff6a7fe-7fd6-4707-afea-d29c49e1ec74",
+    "month": "JULY",
+    "transaction": {
+      "title": "firewall",
+      "amount": 276,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "84ea593d-145a-4211-8b8d-c5899ea61426",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "firewall",
+      "amount": 380,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "ead59eda-ea26-4daf-ac25-14e47d99e1d4",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "protocol",
+      "amount": 157,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "b2e7ca0f-6220-4162-8ab5-ee9322252123",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "system",
+      "amount": 552,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "aef7476c-dee3-4767-a114-460fe7541b65",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "firewall",
+      "amount": 220,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "436a9613-f9a7-438f-986a-64b93cec0290",
+    "month": "MAY",
+    "transaction": {
+      "title": "panel",
+      "amount": 899,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "f667e951-7105-4001-aa7f-732ba1adebeb",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 77,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "f768d105-cf64-4c65-8389-4058f5ac8bb0",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "pixel",
+      "amount": 23,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "2ab42e21-fb31-4fa7-a93a-e35b45fde70e",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "program",
+      "amount": 426,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "e0614b21-ef94-4f51-9486-417efa18dc64",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "program",
+      "amount": 753,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "d1915f5a-8142-400a-911d-731f9d613cc8",
+    "month": "MAY",
+    "transaction": {
+      "title": "sensor",
+      "amount": 189,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "9df70234-13a3-4275-8237-90994070abb1",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "application",
+      "amount": 411,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "034af4ee-3848-4a75-a290-93208e25a264",
+    "month": "JUNE",
+    "transaction": {
+      "title": "matrix",
+      "amount": 851,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "13372bee-488b-492b-82aa-09e2bd48b38d",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "sensor",
+      "amount": 363,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "88c93fc8-2ce5-400f-a0f6-234e227d6343",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 195,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "12a763d7-c0e2-4ddc-8e15-1604d9f12884",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "feed",
+      "amount": 774,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "47cdc656-4a2a-4906-81cc-dd240f72f391",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 45,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "a859530b-ac60-4802-a9d0-2e2ecc87e2b5",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "panel",
+      "amount": 876,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "d8e2092c-4da7-4ae6-b28e-34df150ddc17",
+    "month": "MAY",
+    "transaction": {
+      "title": "driver",
+      "amount": 266,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "3100f6a6-a911-4e65-9227-c4f59678cc45",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "circuit",
+      "amount": 380,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "b0ebf107-87b9-4ef9-82d2-3421b7fffcdb",
+    "month": "JUNE",
+    "transaction": {
+      "title": "protocol",
+      "amount": 820,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "af0146e6-a3c9-466b-b2fa-408b398a961e",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "program",
+      "amount": 937,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "977b6aee-5e94-429f-b4d8-4be21d6d6576",
+    "month": "JULY",
+    "transaction": {
+      "title": "system",
+      "amount": 871,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "87e8fa7b-1df5-4870-a453-800dcd76126b",
+    "month": "JULY",
+    "transaction": {
+      "title": "panel",
+      "amount": 79,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "20905e3b-480c-4ea9-9762-a959f6a2c3b4",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "driver",
+      "amount": 151,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "63f9527a-5b61-45e2-a0af-388d3e6b2b01",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "matrix",
+      "amount": 946,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "e86d883c-2e52-4215-ae1f-90240d6ebed4",
+    "month": "MAY",
+    "transaction": {
+      "title": "firewall",
+      "amount": 428,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "81dc4fcb-5b59-4774-9468-5934d4c63d4e",
+    "month": "JULY",
+    "transaction": {
+      "title": "matrix",
+      "amount": 621,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "8437146a-9c48-4073-ad43-823b1351940c",
+    "month": "JUNE",
+    "transaction": {
+      "title": "system",
+      "amount": 346,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "1a80dd5c-245a-48d6-9270-491cfa7bc689",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "protocol",
+      "amount": 218,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "20747c04-3a04-49d9-8bfc-e6424a29b82d",
+    "month": "MARCH",
+    "transaction": {
+      "title": "program",
+      "amount": 251,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "1c9f832e-2091-4750-932b-95210b4bdc08",
+    "month": "JUNE",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 752,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "a5386140-7987-4420-9901-101faa0fe4ce",
+    "month": "MAY",
+    "transaction": {
+      "title": "driver",
+      "amount": 408,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "86ac02c8-b555-465e-9310-ee225077f65d",
+    "month": "MAY",
+    "transaction": {
+      "title": "application",
+      "amount": 359,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "769fbc84-d664-4f9c-9aab-a62fdaadb746",
+    "month": "APRIL",
+    "transaction": {
+      "title": "monitor",
+      "amount": 394,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "669f37ce-75df-45b3-9ddb-397890796bff",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 265,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "c9c86c26-0a92-4099-ae6b-16b17eeed927",
+    "month": "JUNE",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 873,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "af377e62-68c6-483f-8b3c-241a7b067d91",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "matrix",
+      "amount": 466,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "7623ee16-9178-4dd4-85dc-b4c606390151",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "protocol",
+      "amount": 753,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "935911e6-de16-479e-a452-a39b9a529c9b",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "bus",
+      "amount": 117,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "1179454e-4255-4df1-9d22-8780ec4f8360",
+    "month": "JUNE",
+    "transaction": {
+      "title": "card",
+      "amount": 289,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "86cc688a-3b05-47e6-a89d-edd1d7e544b1",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "array",
+      "amount": 99,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "fb90f4c7-abc5-4512-b9c2-b8bc8412fff1",
+    "month": "JULY",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 721,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "fdcc6ef6-872a-4a1a-9742-7fd4e94ead91",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "panel",
+      "amount": 9,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "b7e3f642-0534-4415-93e8-7ad8914a13f6",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "program",
+      "amount": 775,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "a0243b3f-f997-46e1-94dc-738d3991d955",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "protocol",
+      "amount": 950,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "ada143e8-67a1-4805-81fb-bf6c28f3c435",
+    "month": "MARCH",
+    "transaction": {
+      "title": "pixel",
+      "amount": 339,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "94c7c3e5-9c77-4d9e-87e5-55c5b4e0280f",
+    "month": "JUNE",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 993,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "61b0a88a-6c88-4673-be13-56f0c4503dc9",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 412,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "f333f134-0cd7-47c0-a108-8ea1c266f168",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "alarm",
+      "amount": 248,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "f321e8aa-5643-4bca-8e6e-8d4ecb817a70",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "bus",
+      "amount": 356,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "fcc7dab9-a2dc-47ab-8408-d4a15ac0fe40",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 993,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "73866f2d-bcad-4557-986c-fd46e5e18011",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "bus",
+      "amount": 195,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "36bdac0c-d6dc-4068-bb6f-9e5add5e25ab",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "card",
+      "amount": 364,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "e9af89f4-0b22-45c0-a4c9-d15a2d91585a",
+    "month": "APRIL",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 875,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "f17ee975-c844-40f2-addf-fcdf6e8a830a",
+    "month": "JUNE",
+    "transaction": {
+      "title": "bus",
+      "amount": 197,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "e5c9085a-a034-4114-afe3-9b372b64232c",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 175,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "13091423-96e5-473b-a9ce-e76664f29474",
+    "month": "APRIL",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 991,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "cb8404b2-4cb7-413d-bdad-d40525b6516f",
+    "month": "APRIL",
+    "transaction": {
+      "title": "program",
+      "amount": 873,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "f7ed014c-3557-4af7-8031-e585a1dcf221",
+    "month": "JUNE",
+    "transaction": {
+      "title": "sensor",
+      "amount": 899,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "fd576caa-5f05-40f9-be40-9f35085bab11",
+    "month": "MARCH",
+    "transaction": {
+      "title": "protocol",
+      "amount": 592,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "f3ae163c-ff7b-4c90-9d29-2a3cdeaee601",
+    "month": "APRIL",
+    "transaction": {
+      "title": "matrix",
+      "amount": 999,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "ffdf508c-f9ae-40d5-8668-91864b444790",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "monitor",
+      "amount": 265,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "0d091468-eaa3-4eaf-94b8-4cfa1cf2aa54",
+    "month": "JULY",
+    "transaction": {
+      "title": "card",
+      "amount": 409,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "40152279-338b-4a66-bf4e-47df1e4cd809",
+    "month": "JUNE",
+    "transaction": {
+      "title": "card",
+      "amount": 524,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "99e16cab-4b38-4600-9dc1-16c899492e4f",
+    "month": "APRIL",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 257,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "232da099-5221-4c0e-8f32-d62f2f235c09",
+    "month": "MAY",
+    "transaction": {
+      "title": "protocol",
+      "amount": 355,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "037c271c-9cfe-4bac-a079-3010dd710349",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 166,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "95a36377-7030-428a-a004-ccf3dce041a8",
+    "month": "MAY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 768,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "511bb862-358c-439e-8634-ceeb35ef2282",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 761,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "52d5c14b-de4b-412f-958d-149ceb502c60",
+    "month": "JULY",
+    "transaction": {
+      "title": "interface",
+      "amount": 117,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "b6e8d116-e63b-4720-8b12-13de3c577f8b",
+    "month": "JUNE",
+    "transaction": {
+      "title": "feed",
+      "amount": 940,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "b1fb3416-86fb-4431-a7e0-8c51915aba58",
+    "month": "APRIL",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 855,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "e3ba911a-f67d-47be-89f0-8f659bff8240",
+    "month": "JUNE",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 20,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "199c609f-3cf3-4d2d-a53d-aa813be03317",
+    "month": "MARCH",
+    "transaction": {
+      "title": "feed",
+      "amount": 868,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "a47a958e-376c-44ab-9760-1dcb0b380cb3",
+    "month": "MAY",
+    "transaction": {
+      "title": "sensor",
+      "amount": 808,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "04352f2c-f2ce-4ea4-bd69-d09541579e33",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "protocol",
+      "amount": 996,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "a27bc68e-7fbf-4788-89c2-9b047b254de5",
+    "month": "JUNE",
+    "transaction": {
+      "title": "protocol",
+      "amount": 853,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "70699681-097d-41a7-a93c-bc5cf6409f2b",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "program",
+      "amount": 370,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "75793aa7-f390-4150-90d3-4fabe865cf7c",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 411,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "ea79f797-5855-4ce9-805f-de9ade22bc97",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "driver",
+      "amount": 752,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "91798dbe-ea27-48e2-93c2-d6698fc2b733",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "port",
+      "amount": 169,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "37b17ce9-06c3-4e3a-b1cc-72b0229cdddb",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "panel",
+      "amount": 655,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "2f834467-37c3-4899-91ec-bf74372277f2",
+    "month": "JULY",
+    "transaction": {
+      "title": "port",
+      "amount": 219,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "757632d9-4fa8-47ea-a455-0d4255f28807",
+    "month": "JULY",
+    "transaction": {
+      "title": "application",
+      "amount": 645,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "d5bc7e62-273a-437e-a309-563cc53d9828",
+    "month": "APRIL",
+    "transaction": {
+      "title": "interface",
+      "amount": 840,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "ac6dded1-8d4f-4a38-ac66-d1fa84e85ee7",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "port",
+      "amount": 760,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "b9aeea3f-6054-47a8-88d4-1a33c4116629",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 208,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "861d78f2-47f8-41e8-b3ca-306bb6208eb2",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "array",
+      "amount": 756,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "d500316d-ec18-405c-9bbd-22f63330ec08",
+    "month": "JUNE",
+    "transaction": {
+      "title": "program",
+      "amount": 412,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "8dcf7371-de52-4035-b903-976740c1f4e8",
+    "month": "MAY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 431,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "6caeaf3b-8ea3-4733-af3c-33bc2b636272",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "card",
+      "amount": 961,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "e4a99184-a7a5-4d43-87a2-db86ac08afd2",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "program",
+      "amount": 881,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "2d44ef61-96a6-491c-b74b-b7fda1746d9b",
+    "month": "MARCH",
+    "transaction": {
+      "title": "driver",
+      "amount": 386,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "79c0121d-0852-414e-a47c-bb5365f52298",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 287,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "a5fe8c5e-a449-4c40-9558-9a93a6a65352",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "program",
+      "amount": 591,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "b25df89d-9366-4dbc-91d1-610a84eaa175",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "pixel",
+      "amount": 675,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "2d9a7345-4a29-487e-8445-4a3df3b26803",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "protocol",
+      "amount": 247,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "3a6c8a63-53f0-4ebc-a4e2-08fab8c6a63f",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "monitor",
+      "amount": 266,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "0cd1c9d5-9ffa-484a-be5d-29ed38d3da58",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 37,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "eeedbbd1-a8d2-40d7-aa01-2d5d50b4ae7c",
+    "month": "APRIL",
+    "transaction": {
+      "title": "feed",
+      "amount": 498,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "2bac1240-0c1b-4384-9b5e-3c50087b325c",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "bus",
+      "amount": 617,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "57f20e99-a357-4286-a070-ccb9b16079a8",
+    "month": "JULY",
+    "transaction": {
+      "title": "system",
+      "amount": 573,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "fb6a9c66-d491-44a8-ac6b-075c567272b7",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 828,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "fb788125-e085-4e27-ac39-969531ae4b1d",
+    "month": "JULY",
+    "transaction": {
+      "title": "port",
+      "amount": 363,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "41bccfd6-2410-41e4-b638-abbb59012fc0",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 919,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "069936b8-9b76-4410-b55d-41f846f31b83",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "sensor",
+      "amount": 66,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "3f643c58-d11e-422a-8308-fe89df1340cd",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 528,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "b0e3d9c6-5f36-4d0e-8148-32b8b2848875",
+    "month": "MAY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 52,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "6a8a4fe1-25ca-4e0e-abbf-76da10a9a9de",
+    "month": "APRIL",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 326,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "6a0009f2-59e5-4ef5-841e-b86d1d80cc21",
+    "month": "APRIL",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 115,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "3450cbca-5d44-46ac-9bca-37d0dd31a847",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "protocol",
+      "amount": 276,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "0c08ed2b-132e-4d21-964b-d854f8408912",
+    "month": "MAY",
+    "transaction": {
+      "title": "card",
+      "amount": 768,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "8a6bd25d-090a-4736-8d0a-c8d802cf41ef",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "feed",
+      "amount": 615,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "2645e3df-8564-4480-aef1-61acec7f301a",
+    "month": "JUNE",
+    "transaction": {
+      "title": "firewall",
+      "amount": 833,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "5fbea575-877c-4005-a005-9d251fdcfced",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "sensor",
+      "amount": 751,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "401cba2d-acb7-4dc1-8d67-a9d6c70e653e",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "system",
+      "amount": 620,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "c9e38cbf-4fe0-4f0f-b100-f126f1867bfb",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "array",
+      "amount": 795,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "c7ed30f8-38ff-4d3d-b93c-9c4b5cf3c2fa",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "bus",
+      "amount": 927,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "145ec346-1584-4fda-aaf2-6f099c0eadc0",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "application",
+      "amount": 412,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "5406dd48-bfaa-4ff7-bde9-b71679928ccc",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "monitor",
+      "amount": 160,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "8520020b-2899-4fe6-bf1a-e39683908264",
+    "month": "JULY",
+    "transaction": {
+      "title": "sensor",
+      "amount": 909,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "a0a69493-3550-4d21-8e9a-43965226dede",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "array",
+      "amount": 500,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "d0b6b572-d044-4194-859e-38cca635e041",
+    "month": "JUNE",
+    "transaction": {
+      "title": "sensor",
+      "amount": 179,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "18a1a5ea-c60d-449b-8fa1-bfea1d4fbee5",
+    "month": "APRIL",
+    "transaction": {
+      "title": "card",
+      "amount": 63,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "250ebe41-cd7e-43e3-993b-08facf9cc3d9",
+    "month": "JUNE",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 174,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "69d6086f-35a7-4600-bd06-a8d5d5a00921",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 753,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "3c9b1c40-c540-4ea5-a2b2-b438f5719f06",
+    "month": "APRIL",
+    "transaction": {
+      "title": "alarm",
+      "amount": 161,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "6a4fb8f0-d85c-45a2-9a53-4afab5851bcd",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "array",
+      "amount": 255,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "c7c9efff-ba07-48a7-83a8-a9c362053456",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 716,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "b400c656-8491-4544-8aa1-5713e9b8088b",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "program",
+      "amount": 614,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "d716701f-a026-4cb3-bf6b-06a73dd570bc",
+    "month": "JUNE",
+    "transaction": {
+      "title": "driver",
+      "amount": 296,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "67ffbd70-d401-4c60-b3cd-f4529753a11f",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 107,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "4802aa3a-1d02-4ef4-a4b1-d815b17bc013",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 726,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "0abdc076-21a7-4a82-9ecb-3a37a632d587",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "array",
+      "amount": 69,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "fdf6c2c9-1dd9-4c8b-8a73-5076773bb00e",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "application",
+      "amount": 941,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "1a273c61-e952-468c-952f-2591d7b374c7",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "program",
+      "amount": 400,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "a94ac19c-fc66-4164-931b-dd045929ae1c",
+    "month": "APRIL",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 169,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "26eae35c-74f5-4558-8e04-0cd7d0dddd27",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 2,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "1251c8c8-74b0-4e23-9844-134d2bdfdab2",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "array",
+      "amount": 874,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "c4f506f2-44a5-4c3d-b647-39283ff18898",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "driver",
+      "amount": 132,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "0c20643d-9924-4593-bbdd-0992829128c8",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "program",
+      "amount": 933,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "2b606989-0956-4b35-98fc-24c4a44c77f7",
+    "month": "MAY",
+    "transaction": {
+      "title": "panel",
+      "amount": 609,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "9e62b681-a49b-428f-9458-fca1a54673f4",
+    "month": "APRIL",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 944,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "72be7a70-45c0-4fc3-b780-e37f85cfdf89",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "card",
+      "amount": 197,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "bbd8fd99-63bd-4d97-ae06-8d3722caf58b",
+    "month": "MARCH",
+    "transaction": {
+      "title": "card",
+      "amount": 473,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "d25d50f8-29b0-4a03-bda6-59efd614f22b",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 39,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "4178b2b2-cc83-4cee-9ea4-cc98d4b48323",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "sensor",
+      "amount": 417,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "3c564079-03b2-4309-abe4-0736b182a5d1",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "array",
+      "amount": 790,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "16839c5e-5581-4696-b072-5d3829cda107",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 850,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "44c5160e-8554-4101-9132-90fe1b7aa590",
+    "month": "JUNE",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 513,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "98a81683-92a1-4f10-92a5-f969ed2428b5",
+    "month": "APRIL",
+    "transaction": {
+      "title": "matrix",
+      "amount": 97,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "a8a82a14-056d-44e9-a2e6-c70af94101a8",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "panel",
+      "amount": 561,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "16a98400-0e1d-4769-b2a6-8e21608a9104",
+    "month": "MAY",
+    "transaction": {
+      "title": "firewall",
+      "amount": 438,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "61810291-5d07-4650-9309-103e2302f3bf",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "protocol",
+      "amount": 202,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "d583ce2c-03e4-47a2-be7f-054f17c02c73",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "microchip",
+      "amount": 553,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "d4606c4b-347a-4f73-a394-7ac2eadb82e9",
+    "month": "JULY",
+    "transaction": {
+      "title": "bus",
+      "amount": 38,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "76dff2e4-f51d-4095-adba-2bf0eade84c8",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 689,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "8811ebb1-716b-4385-adc6-2c03c693ab69",
+    "month": "MARCH",
+    "transaction": {
+      "title": "circuit",
+      "amount": 986,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "f37ab1f0-772b-4a56-b79c-b339296a24b0",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "bus",
+      "amount": 808,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "64604ff7-7359-4ae6-8ea9-c404654f653e",
+    "month": "MAY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 815,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "78b7a55e-733b-426a-aedc-7fd8d1c2df78",
+    "month": "JUNE",
+    "transaction": {
+      "title": "feed",
+      "amount": 811,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "99a823bf-5a1a-4a6d-b944-44f0fef8ceaa",
+    "month": "MAY",
+    "transaction": {
+      "title": "feed",
+      "amount": 836,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "51f752da-15d0-41b0-8906-30ab3fd16d58",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "firewall",
+      "amount": 739,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "9de91c36-af1a-4ec2-baa9-ec8686cd0d52",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 708,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "20f35b0b-bcdc-44b7-a828-3b78f57de9e1",
+    "month": "APRIL",
+    "transaction": {
+      "title": "bus",
+      "amount": 791,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "5e4825ab-8e8c-469e-a7ae-b8f35a73b54c",
+    "month": "JUNE",
+    "transaction": {
+      "title": "microchip",
+      "amount": 246,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "3af9e7a7-9ad1-4c41-ad77-d96fe3c66438",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "array",
+      "amount": 421,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "5e9808a5-7030-4940-b8b8-919effb3c23a",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "sensor",
+      "amount": 890,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "edd6e4b7-23b0-4d7f-80a0-c15c0fc3fe9f",
+    "month": "MARCH",
+    "transaction": {
+      "title": "monitor",
+      "amount": 652,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "8c2f80ff-c8d9-46d4-9add-8cf16300c6fa",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "array",
+      "amount": 801,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "bdc811dc-fd7e-46eb-9e93-b73bdc8608fe",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "port",
+      "amount": 351,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "be10afa4-cfef-47da-96f0-649ebd401ed1",
+    "month": "APRIL",
+    "transaction": {
+      "title": "system",
+      "amount": 887,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "033ed32a-be12-4bb3-87da-8c37d4f20423",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 620,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "69ecf305-5a23-474f-b4d8-a512880d13bb",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "bus",
+      "amount": 958,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "3367ba5d-23db-49a9-97bf-517b153c8251",
+    "month": "JULY",
+    "transaction": {
+      "title": "firewall",
+      "amount": 933,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "31540345-e383-4d74-bb18-887e3f767699",
+    "month": "MAY",
+    "transaction": {
+      "title": "firewall",
+      "amount": 890,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "b465a566-824b-44e7-9964-768d3a8109fb",
+    "month": "APRIL",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 251,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "6a8ca179-360d-4f41-abae-0539b9981eb3",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 461,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "e4741b29-d53a-43ad-80fb-5a3d72df5a90",
+    "month": "JUNE",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 584,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "2912e56f-33bc-4600-9578-d7e6fb0ad6ca",
+    "month": "APRIL",
+    "transaction": {
+      "title": "application",
+      "amount": 282,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "a1137dce-b0c8-4663-9740-180bcd179dc5",
+    "month": "JULY",
+    "transaction": {
+      "title": "protocol",
+      "amount": 493,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "edcd3250-d532-44de-a0a5-27a8eb999cc2",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "circuit",
+      "amount": 512,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "deea36e8-b735-4000-9aae-903c726d154c",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "card",
+      "amount": 313,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "d4025848-90b6-4b0b-980f-6980f817fe12",
+    "month": "MAY",
+    "transaction": {
+      "title": "bus",
+      "amount": 770,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "8e6c07da-7067-47ab-adaa-181779c0efae",
+    "month": "MARCH",
+    "transaction": {
+      "title": "program",
+      "amount": 936,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "0f2c4413-a5ab-4fbc-93b0-7e312afbd810",
+    "month": "JULY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 824,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "476430bc-ddc2-4393-85b9-cdc15afa7a22",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "feed",
+      "amount": 708,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "98c7a134-ea93-4f8c-927b-90e2a6839106",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 406,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "01d1939a-1312-42dc-ae85-e4fb3efa80b8",
+    "month": "MAY",
+    "transaction": {
+      "title": "system",
+      "amount": 571,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "025bad15-f0a5-4f0a-b32d-61ebfc41cb83",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "interface",
+      "amount": 564,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "4a56d49f-5dea-40db-a1b9-330c7630a445",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 661,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "e0b574bf-020c-4735-8d73-413b4e6a7cb2",
+    "month": "JULY",
+    "transaction": {
+      "title": "protocol",
+      "amount": 827,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "0e98d821-0b81-47b7-9fc8-73df336081d0",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "circuit",
+      "amount": 67,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "b0169890-6891-4a69-b5fb-a61281f0fb02",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 374,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "6b123cd8-1b52-424b-9a30-5bd08455c836",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "pixel",
+      "amount": 527,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "85dd22cf-fccf-45b4-9107-631fec93047b",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "panel",
+      "amount": 802,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "f5022020-4b0c-44cc-a400-3974533fd428",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "alarm",
+      "amount": 409,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "b951c5fc-90de-4389-9cde-8c01f0b2af9b",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "microchip",
+      "amount": 350,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "2ef86615-2179-426a-81d8-ae05d0e36e70",
+    "month": "JULY",
+    "transaction": {
+      "title": "bus",
+      "amount": 343,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "d670f0c6-8480-4e53-ab08-b3a681ffb9f0",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "panel",
+      "amount": 391,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "132bc19e-14fb-4fa2-95d8-26346f69dce7",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "monitor",
+      "amount": 751,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "9b152855-305d-459f-8154-9c3b5bbe2687",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "program",
+      "amount": 983,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "98716475-3bcb-4f01-9234-51653fdda354",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "array",
+      "amount": 798,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "4404370d-7d7f-44f3-85c1-4a88669fda65",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 562,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "9d742697-2a9e-4b5b-abee-0a01d1aa5abe",
+    "month": "MAY",
+    "transaction": {
+      "title": "sensor",
+      "amount": 887,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "9e35a371-ca65-4de5-a7b3-ff5df06da86e",
+    "month": "JUNE",
+    "transaction": {
+      "title": "interface",
+      "amount": 29,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "69814375-9d1a-4ec6-ad64-beacb61d82b6",
+    "month": "JUNE",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 632,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "56a59558-0f3d-467f-a7c8-5e9ca7355f6a",
+    "month": "MAY",
+    "transaction": {
+      "title": "system",
+      "amount": 287,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "59b28f90-d538-46c2-a7a8-afafe9167882",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "system",
+      "amount": 149,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "69357c65-d917-43ab-82af-b7e6592c7836",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "panel",
+      "amount": 957,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "8d819492-2ec8-41c2-ab8c-9fc3a1f881ff",
+    "month": "MARCH",
+    "transaction": {
+      "title": "matrix",
+      "amount": 933,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "681a15d3-7484-4819-a9a2-2af836a8dfd4",
+    "month": "APRIL",
+    "transaction": {
+      "title": "interface",
+      "amount": 2,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "06adcd2e-9e55-4570-84a2-c034a560281c",
+    "month": "JUNE",
+    "transaction": {
+      "title": "alarm",
+      "amount": 487,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "c7b75482-7d2d-44c1-af0d-5986fbfc9ce9",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 44,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "a829a0c6-bebc-4050-ad77-0da017036ff7",
+    "month": "APRIL",
+    "transaction": {
+      "title": "system",
+      "amount": 304,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "37d02b09-75cb-42d6-8c0f-ed650906e60b",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "sensor",
+      "amount": 500,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "9c1dde2b-c330-4445-a4eb-a385e7f9e4e1",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "firewall",
+      "amount": 838,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "131e5bf0-3e51-4ee4-92d7-eb161c106438",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "pixel",
+      "amount": 295,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "a2d27125-52f8-43c2-a7db-8bd013ee63a1",
+    "month": "MARCH",
+    "transaction": {
+      "title": "array",
+      "amount": 687,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "0542415d-01a9-46a1-9970-12fc334a91ee",
+    "month": "MAY",
+    "transaction": {
+      "title": "feed",
+      "amount": 568,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "bce76876-401e-4911-a469-61ac4351bafd",
+    "month": "MARCH",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 967,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "6adca75a-50b4-4805-bfe7-22e86725d028",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "microchip",
+      "amount": 481,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "34866ee1-2b87-438e-ba8a-62e3cf48aa9b",
+    "month": "JULY",
+    "transaction": {
+      "title": "feed",
+      "amount": 229,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "a842fdcf-89d6-4aa6-8f7f-6140ce133cfb",
+    "month": "APRIL",
+    "transaction": {
+      "title": "alarm",
+      "amount": 470,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "75d30958-cc79-43ff-8fc1-aa8a88e4d9d9",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 501,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "6ecb3e70-04dd-4c8c-82f4-8c3d1478e87a",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "bus",
+      "amount": 743,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "db6275aa-62af-430b-b572-ff8b50720dcd",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 799,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "6e0c9251-ea47-457e-83b8-6b73420830cd",
+    "month": "APRIL",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 543,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "7f661c30-7397-4604-9858-55a5a30e208f",
+    "month": "JUNE",
+    "transaction": {
+      "title": "alarm",
+      "amount": 416,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "0424892e-1672-44f4-9f43-b1cefb64231e",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "matrix",
+      "amount": 103,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "0fec98ec-b9f2-45d2-ac2d-3d64ade88163",
+    "month": "MARCH",
+    "transaction": {
+      "title": "microchip",
+      "amount": 659,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "adb6aff1-24e3-4c2d-bbbe-e8d7fc29950f",
+    "month": "JULY",
+    "transaction": {
+      "title": "array",
+      "amount": 813,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "a7c0b90d-8568-4822-9ac2-058410289620",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "microchip",
+      "amount": 496,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "e56f464f-2c92-411f-8c81-69382f7b849b",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "sensor",
+      "amount": 768,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "0bdec931-3ddc-4055-aae7-e60b68d2eacb",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "driver",
+      "amount": 793,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "b5ca1978-67e3-440d-ada4-76c964744c01",
+    "month": "MAY",
+    "transaction": {
+      "title": "bus",
+      "amount": 316,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "39ef59c0-863e-40f9-ac18-e4af50c9c34c",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "panel",
+      "amount": 994,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "74a71d93-5206-405a-926c-3fbe3d552d67",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "alarm",
+      "amount": 916,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "4c31cf05-a92c-4496-bc39-3748e89829f5",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "application",
+      "amount": 938,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "39f2eb81-47ab-4619-9a40-fbc1b3e4842f",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "card",
+      "amount": 65,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "32cdad68-c4d5-4cfe-91c8-1deebb283bad",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "array",
+      "amount": 531,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "b2b36695-2b1e-4ab4-9133-856eff94294b",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "matrix",
+      "amount": 294,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "9eb506ae-a0dd-4799-a995-e4de29f45ed9",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "system",
+      "amount": 564,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "e3710409-bb3c-466e-a74c-9b9d1acdd92a",
+    "month": "APRIL",
+    "transaction": {
+      "title": "sensor",
+      "amount": 798,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "ac63ba2b-a83b-42e9-9bec-fdd03b91305a",
+    "month": "APRIL",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 705,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "56d265b9-957a-4295-8b05-c39c527ce512",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 989,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "5e1f4e1b-5616-4d8b-bdd1-3844969be9ff",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "program",
+      "amount": 731,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "4b938153-e108-4223-9c33-eece6abd749f",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 66,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "80f8b447-0dcc-4c10-ab41-f8aa9e1da00f",
+    "month": "JULY",
+    "transaction": {
+      "title": "application",
+      "amount": 58,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "9aa58921-d1ee-4144-a202-001a6ccd6b3b",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 234,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "99f5b378-ae62-4f2f-9671-b0ff6337e8d1",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "application",
+      "amount": 990,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "29f13203-0b96-4fc9-a431-34b042ee41fe",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "sensor",
+      "amount": 515,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "63a62c92-64e1-499c-8dce-1246ea6564b6",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 55,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "40b38f8f-c70f-4aa8-97a4-cc6504125314",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "firewall",
+      "amount": 36,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "91549bca-acb3-403c-83b9-3d18bf0c9a3f",
+    "month": "APRIL",
+    "transaction": {
+      "title": "application",
+      "amount": 822,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "3ec82d99-e397-44a8-8e31-d60737fdb6bb",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "pixel",
+      "amount": 74,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "580ce9aa-86c3-4c23-a5be-dd77071acc9f",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "card",
+      "amount": 896,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "1f62f77d-e627-4851-83a9-0c18b408057a",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "matrix",
+      "amount": 459,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "49c6ff9c-a569-4b95-8fc4-a98b02d969a8",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "driver",
+      "amount": 213,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "e0875555-fef0-4964-a015-a557c352a044",
+    "month": "JULY",
+    "transaction": {
+      "title": "pixel",
+      "amount": 634,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "0545ffba-d764-4491-ada9-2f5f59e675ca",
+    "month": "JULY",
+    "transaction": {
+      "title": "panel",
+      "amount": 245,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "9ee65f1f-5ee5-4b93-a184-f2f5a37aaac6",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 473,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "d2c3ea3b-ac6b-4fc9-bc79-932b41d04ce7",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 65,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "22d82643-88c9-4cf6-92d2-57bd003472cb",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "sensor",
+      "amount": 389,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "3b59ad2c-3744-4a94-b620-20c6b99a82dc",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 413,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "c3a4d0d0-d233-45cf-98b7-269d1751d464",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "system",
+      "amount": 978,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "b3b108ae-0541-4455-b96c-300f7d5d4243",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "bus",
+      "amount": 957,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "c0cfbf50-ce63-40e6-b581-44fab488728d",
+    "month": "JUNE",
+    "transaction": {
+      "title": "bus",
+      "amount": 553,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "fbaf6f6f-9cc1-41c3-aac7-1cf0120578aa",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 461,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "d7574c6e-38a8-44ba-9d02-c03d55577114",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 938,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "a6c983b2-5011-4857-9356-d593a7be04d7",
+    "month": "JULY",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 610,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "8203e132-a0ec-400d-a3da-67bde5ab85a2",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "microchip",
+      "amount": 650,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "11903624-65c8-494b-8ef9-5f73cd7984dd",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "microchip",
+      "amount": 399,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "ecceef61-0035-4128-816a-b3b61ef08eb9",
+    "month": "JULY",
+    "transaction": {
+      "title": "protocol",
+      "amount": 739,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "d285ebcf-1d89-43eb-bf20-9f7ea81a68b9",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 916,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "bc2ac293-985d-4694-9b00-e77f42f5edca",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 110,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "2fb246eb-e086-4e21-a470-f26d14bd4e26",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 425,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "fe28bada-3ee9-4429-9f69-e9db1dfa250c",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "monitor",
+      "amount": 277,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "b2aa5d12-9068-4cec-ac6c-4f84760bc5ab",
+    "month": "MARCH",
+    "transaction": {
+      "title": "microchip",
+      "amount": 894,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "de6b4af2-36b1-4666-980c-7d3422c947e9",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "bus",
+      "amount": 673,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "ba933304-ec2f-4176-b013-8e95d38bcc85",
+    "month": "MAY",
+    "transaction": {
+      "title": "matrix",
+      "amount": 22,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "77adfc26-12dc-4429-bb50-80e49c2a1566",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 517,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "a265de05-5b42-43eb-a922-00f42a0a4a36",
+    "month": "MARCH",
+    "transaction": {
+      "title": "microchip",
+      "amount": 21,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "2056898f-8bd7-48fe-8749-3c3ce1eaad20",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "sensor",
+      "amount": 17,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "aa71ba68-d390-4e65-a531-a0cfbf4ed72f",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "array",
+      "amount": 730,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "484f0913-3bc4-4e98-83e7-98530b22737c",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "application",
+      "amount": 458,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "f0562c24-1a3b-42a5-9149-c2a31d4cec29",
+    "month": "JULY",
+    "transaction": {
+      "title": "panel",
+      "amount": 260,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "b404052b-edca-41bf-a1fb-9c5209972052",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "feed",
+      "amount": 912,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "611fbc2e-28f2-435d-b70e-b8c47ff6ad34",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 587,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "23e8a279-e03e-4891-a947-f3c1ef30f6dd",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "driver",
+      "amount": 110,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "8c17442c-4200-4628-9002-4759a685174d",
+    "month": "MAY",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 337,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "d6865afa-3d2f-448d-a8b5-fdd3b3a5847d",
+    "month": "JUNE",
+    "transaction": {
+      "title": "array",
+      "amount": 735,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "f432ed3c-fca3-404b-937c-034b8ce7631b",
+    "month": "JULY",
+    "transaction": {
+      "title": "matrix",
+      "amount": 446,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "d0e6e372-e4bc-4d50-a261-76ae3d5ecd9e",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "alarm",
+      "amount": 700,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "5a6ab3a1-3f2e-43ee-a279-09dcae6408dc",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "monitor",
+      "amount": 972,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "ca44cbf4-306c-4123-8c27-81ed544c5812",
+    "month": "MARCH",
+    "transaction": {
+      "title": "pixel",
+      "amount": 753,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "295c6fa3-7179-4a25-8e0d-5ce535eb2f37",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "protocol",
+      "amount": 736,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "ef741ddb-7d5e-4912-abcc-7250e52d63bc",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "matrix",
+      "amount": 112,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "e3c510cc-609f-4c9d-a098-7bfe1e949b82",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "panel",
+      "amount": 602,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "64d59216-d699-4944-bc44-5940d77ea2e8",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "panel",
+      "amount": 375,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "1773fde0-ae4f-4c27-a57e-eb343a6ddb60",
+    "month": "MARCH",
+    "transaction": {
+      "title": "circuit",
+      "amount": 175,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "8b1b3af2-eaf2-461d-93f8-fdf78218af25",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "port",
+      "amount": 367,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "dc80fa47-8781-44ad-85af-73ceff2c9afc",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "port",
+      "amount": 507,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "fde5547c-c0af-4114-bd6c-f46d5ee040c7",
+    "month": "JULY",
+    "transaction": {
+      "title": "panel",
+      "amount": 200,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "04e59924-8285-4cd6-80bb-319969a95158",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "circuit",
+      "amount": 405,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "82c66d9e-7cb3-48a9-8fe7-7f0b067dd048",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "program",
+      "amount": 834,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "3563de52-dedc-4d06-8021-286f58afee63",
+    "month": "JUNE",
+    "transaction": {
+      "title": "firewall",
+      "amount": 431,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "0d3b1bf4-7d8f-4db0-bede-4b8f08e52df7",
+    "month": "MAY",
+    "transaction": {
+      "title": "alarm",
+      "amount": 618,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "004a8ba0-79f4-4146-a60a-d54db9a5be5a",
+    "month": "JUNE",
+    "transaction": {
+      "title": "system",
+      "amount": 839,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "cda4b6a7-97f9-44da-98f8-712666a687b1",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "card",
+      "amount": 784,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "753f88ee-2efc-4589-9c5c-91ae2a0180d6",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "alarm",
+      "amount": 547,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "b9bbc642-231b-43c3-9bf4-c5a1547f5cf1",
+    "month": "JUNE",
+    "transaction": {
+      "title": "matrix",
+      "amount": 127,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "b4855a36-f187-49d8-8552-a37ffa2896c6",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "panel",
+      "amount": 698,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "08216965-8113-45ec-8c06-e190aabf0e7b",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "panel",
+      "amount": 551,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "96fd0de9-aa8a-4e15-bbc9-f05fb8e55ebf",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "circuit",
+      "amount": 900,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "4fe034ad-2f5b-4541-8050-5887375ec2e5",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "panel",
+      "amount": 402,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "4907e27a-fd36-4bff-bfa8-df486e6bcb10",
+    "month": "JULY",
+    "transaction": {
+      "title": "port",
+      "amount": 760,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "4c974b55-c8b4-445b-8af7-8eec073106bd",
+    "month": "JULY",
+    "transaction": {
+      "title": "pixel",
+      "amount": 796,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "0a8b0ca0-e866-448d-9ea3-5e01484d220b",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "array",
+      "amount": 617,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "87e81002-9d75-4308-aee0-cccaa7d57b5c",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "alarm",
+      "amount": 132,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "062bf686-3464-44de-b0aa-8f7018911a24",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "system",
+      "amount": 80,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "bfad0cb6-b4c5-4c80-a553-159fb24f7517",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "panel",
+      "amount": 535,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "9523ef5d-f1fc-4dfe-8be1-9a0d03000201",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 492,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "b77f3a42-7f94-4991-921d-79eff541d171",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 339,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "170cb46a-5f90-45e5-b4d8-ddcaf307c46a",
+    "month": "JUNE",
+    "transaction": {
+      "title": "firewall",
+      "amount": 679,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "cf64b4cd-da35-46e9-897c-6539d7f62524",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "circuit",
+      "amount": 630,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "bd54ab3b-8231-49d9-b16a-9c2e1970783c",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "microchip",
+      "amount": 976,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "978b2ef8-690e-4f9c-99ba-f4b6a63140e8",
+    "month": "JULY",
+    "transaction": {
+      "title": "port",
+      "amount": 842,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "fc195cc5-28ca-4ac8-a22b-84de77b8935c",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "sensor",
+      "amount": 298,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "ea7f8a47-bfbe-4f35-8865-33eee5fa5fc8",
+    "month": "JULY",
+    "transaction": {
+      "title": "alarm",
+      "amount": 906,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "48d6a56f-3ddd-493d-b030-fcc582842e08",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "firewall",
+      "amount": 785,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "ab22d650-30bb-43c1-8a40-3a1bd65f812c",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "microchip",
+      "amount": 922,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "37e2fe72-ce17-4e5c-93a3-091773bd5951",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "bus",
+      "amount": 853,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "734dc0ac-527b-44f9-94bc-da01ea2d5044",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "card",
+      "amount": 345,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "a5e159ab-989e-4712-9afe-227361f9f919",
+    "month": "JULY",
+    "transaction": {
+      "title": "feed",
+      "amount": 418,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "3f6ffd7d-d5c9-4ef7-92ed-ae76db52a499",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "feed",
+      "amount": 344,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "481fb882-b207-441d-8635-9bd6266d94e9",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "port",
+      "amount": 754,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "f037f6b1-2a50-4294-bac8-a3a85faa5a80",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "firewall",
+      "amount": 717,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "38b198d1-e782-462c-b56d-7b675e2596ea",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "alarm",
+      "amount": 553,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "2e7690fb-2824-43f3-a4ba-f14eb678f9ed",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "protocol",
+      "amount": 648,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "e25a4cc2-831a-45f6-a801-02e105779ba1",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 265,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "c2875885-94c2-438d-a249-00cb36d44499",
+    "month": "MAY",
+    "transaction": {
+      "title": "application",
+      "amount": 807,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "8995925a-26b0-44db-b55d-f5ee26247760",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "bus",
+      "amount": 492,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "431ec654-757f-44a4-9688-d07017afa5c8",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "alarm",
+      "amount": 987,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "6585b267-9a36-4d9f-aa4a-f751b3d64b70",
+    "month": "APRIL",
+    "transaction": {
+      "title": "microchip",
+      "amount": 659,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "4dd19078-9a15-46c7-97e3-dac14b2030ce",
+    "month": "MARCH",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 413,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "e5f42512-4fd9-43ae-b995-1cf7e343b607",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "monitor",
+      "amount": 302,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "541ccfb6-bfaf-46a8-87d5-751e15e550e6",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "feed",
+      "amount": 638,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "cce116e2-7483-4e5d-900a-85a10ff8c3de",
+    "month": "JUNE",
+    "transaction": {
+      "title": "monitor",
+      "amount": 280,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "a9dfc1bc-01ce-42cd-9982-4d9ab9f51b37",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "alarm",
+      "amount": 618,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "c037e0b8-602d-4859-a8a6-2e21bd9bb92b",
+    "month": "MARCH",
+    "transaction": {
+      "title": "monitor",
+      "amount": 17,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "73839690-d745-410c-834a-ab867097cac4",
+    "month": "MAY",
+    "transaction": {
+      "title": "program",
+      "amount": 300,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "0e80b6ab-ebc2-4bef-9795-253e509b05ab",
+    "month": "JULY",
+    "transaction": {
+      "title": "bus",
+      "amount": 978,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "1a145964-8aec-4ba6-bbdf-a7820e5ec9ad",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "matrix",
+      "amount": 148,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "69df4622-ad45-4677-8952-4a3a5dd8821d",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 104,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "bb8c3c71-aa9d-48b9-8037-e73505c9d087",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "array",
+      "amount": 689,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "e4dba811-abd6-4cb3-955a-f4dd9c4baf48",
+    "month": "MARCH",
+    "transaction": {
+      "title": "pixel",
+      "amount": 683,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "b4a19fd9-6029-4cb6-afb2-5154c6167270",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "array",
+      "amount": 39,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "f3ed1e28-4ecf-4e39-9ecc-b886d1509b2a",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "interface",
+      "amount": 926,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "6b2cf6b3-2eac-4270-984d-c81e28b3f857",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "monitor",
+      "amount": 438,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "9c18815e-380d-4f33-8152-29ae94aaa930",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "matrix",
+      "amount": 650,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "7a18011b-fbdb-45bc-a786-da5f2540bbf7",
+    "month": "JUNE",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 729,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "fefbe615-5405-4ecf-bfc3-0957dee27c4e",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "program",
+      "amount": 316,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "89233ff6-7fb1-4e83-868b-439a0d5696bf",
+    "month": "MARCH",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 131,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "e78a9a89-80fa-4825-801f-0cdb30e83925",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "firewall",
+      "amount": 702,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "09a2ba15-da13-4a61-bc47-b6e0a877e57a",
+    "month": "MAY",
+    "transaction": {
+      "title": "matrix",
+      "amount": 429,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "668f80a8-8b76-4fea-9b0d-d5fe2393af96",
+    "month": "APRIL",
+    "transaction": {
+      "title": "application",
+      "amount": 317,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "b295d363-5850-4cf8-9c88-a5c56b5624ee",
+    "month": "JUNE",
+    "transaction": {
+      "title": "system",
+      "amount": 235,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "1b0c4827-604c-4804-ba5e-b2552cb10140",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 718,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "cbe639c2-4269-4026-8b8f-e6d32cd0c86b",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "microchip",
+      "amount": 59,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "71957265-91a9-4b03-a6ab-499b6ee1cec2",
+    "month": "APRIL",
+    "transaction": {
+      "title": "microchip",
+      "amount": 290,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "5a11f5c1-f4c5-4adf-a26c-54ece3af5a29",
+    "month": "MAY",
+    "transaction": {
+      "title": "array",
+      "amount": 406,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "ec08a11f-0eed-435f-8343-81e9123de5a6",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "port",
+      "amount": 773,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "c834381f-dcdf-46c4-a269-a2ecb64b95cf",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 566,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "34be297e-178f-491a-97d7-0158717b1a77",
+    "month": "JUNE",
+    "transaction": {
+      "title": "sensor",
+      "amount": 591,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "5dad5b44-1de8-4b20-abdc-b71a3e018f6b",
+    "month": "APRIL",
+    "transaction": {
+      "title": "matrix",
+      "amount": 140,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "6e3085c6-e83f-45d4-a8b7-4ce4a307aa78",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "circuit",
+      "amount": 728,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "b7a1913d-4fae-4cc8-a8a6-188d25035dc3",
+    "month": "MAY",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 501,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "8e919d96-36c1-4f40-bdb9-3ade97e81b3f",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "driver",
+      "amount": 844,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "7a744881-25cc-4a99-95c9-a470ee26ec3e",
+    "month": "JUNE",
+    "transaction": {
+      "title": "port",
+      "amount": 114,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "1fbef1d6-ef3a-414d-af76-35102d8e1a0e",
+    "month": "APRIL",
+    "transaction": {
+      "title": "array",
+      "amount": 106,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "8f7db46d-fbd6-4526-8a4a-948fd2554a54",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "feed",
+      "amount": 518,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "38deb526-9a02-456d-bf61-256984207e3c",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "bus",
+      "amount": 157,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "b97fe16a-6849-4f3f-8c9c-4fb9f43a6735",
+    "month": "MARCH",
+    "transaction": {
+      "title": "feed",
+      "amount": 197,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "375cc132-948c-47f1-87ac-e25f5c044cc0",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "feed",
+      "amount": 425,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "3a58a921-38b3-4306-9958-3da725fb911c",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 49,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "d15a7fe7-e0b1-4368-a1d2-ea481ecb7487",
+    "month": "APRIL",
+    "transaction": {
+      "title": "port",
+      "amount": 836,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "5e261a82-b25c-4b06-adef-555026097e16",
+    "month": "MARCH",
+    "transaction": {
+      "title": "sensor",
+      "amount": 351,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "47df8d02-42a6-4c43-a550-aaa5d6cb2ae2",
+    "month": "MARCH",
+    "transaction": {
+      "title": "card",
+      "amount": 975,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "3fc7382b-1056-4595-855a-9764ad3353a2",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "protocol",
+      "amount": 782,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "120c6c7a-1168-4142-b2b3-2a0320bf2469",
+    "month": "JULY",
+    "transaction": {
+      "title": "firewall",
+      "amount": 350,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "0ef9a82c-153d-4e71-8bc8-9f1c631d1b76",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "pixel",
+      "amount": 609,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "b793918d-b99d-4b41-b3cf-6e75aeb833f1",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "pixel",
+      "amount": 979,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "89aa241f-e64c-40cb-913c-d07688b36123",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "feed",
+      "amount": 155,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "d51b5873-18d0-45d0-9b7c-1781af7a2ea5",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "sensor",
+      "amount": 783,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "321da733-6621-434e-a801-a9ee8ca79c6b",
+    "month": "APRIL",
+    "transaction": {
+      "title": "port",
+      "amount": 381,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "8d15180b-0538-4aec-aae5-204826d96627",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 210,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "ac4a71b5-e837-44e0-af46-70ed63fe8aba",
+    "month": "APRIL",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 120,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "480db357-e4a1-4410-bf94-405ebf177101",
+    "month": "MAY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 657,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "76f59f0e-41f7-4575-901c-d31abc64fb7a",
+    "month": "JULY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 437,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "289ecdf7-82c0-4c1a-8da8-ca2def81a575",
+    "month": "MAY",
+    "transaction": {
+      "title": "driver",
+      "amount": 740,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "33d059b9-3b01-4538-a0ca-de44852b3a03",
+    "month": "JUNE",
+    "transaction": {
+      "title": "system",
+      "amount": 568,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "99f9ff67-a43e-48af-9b0c-bda8ab52de8e",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 755,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "b9d8cfcb-a8b6-421d-8cb4-2d75eb404659",
+    "month": "MAY",
+    "transaction": {
+      "title": "port",
+      "amount": 18,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "8437441f-db37-4aa8-8635-1b205ee77875",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "application",
+      "amount": 395,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "8a939849-6a8e-4598-8c40-2e6e7f1ffac6",
+    "month": "APRIL",
+    "transaction": {
+      "title": "matrix",
+      "amount": 430,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "332fec06-a015-4066-a18e-2d0027715fe3",
+    "month": "JUNE",
+    "transaction": {
+      "title": "matrix",
+      "amount": 567,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "a2243c83-5509-4b41-afdc-21bb86e32a0a",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "feed",
+      "amount": 945,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "50700e3a-594d-46b9-9351-c87c1b6fbe96",
+    "month": "JULY",
+    "transaction": {
+      "title": "application",
+      "amount": 758,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "e793fb0c-147a-47ef-98eb-5bad34ab8440",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "system",
+      "amount": 775,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "988f17dd-eebe-4763-8f72-c1ea75c9a19d",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "driver",
+      "amount": 687,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "2da7fad8-a0d7-4b42-a438-ac952c9ea949",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "circuit",
+      "amount": 790,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "774ab371-eff1-45e6-a819-7d93df3396e1",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 454,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "abb432d1-5543-45d1-8632-52fb77ca4c84",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "card",
+      "amount": 54,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "f2a12d64-ef8c-493d-95d5-f5541b42b2b1",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "application",
+      "amount": 511,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "14f138d8-9e4d-43c8-bc68-d97f2c5f9168",
+    "month": "APRIL",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 304,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "49f28d56-4fa5-4197-9a0e-08f1c81713ac",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "firewall",
+      "amount": 797,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "0c3ed34a-63a2-4639-94b8-54d16e7009ad",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 126,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "523f39f0-192c-4ff5-8d56-da5ab5263e84",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "panel",
+      "amount": 472,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "c9b5272a-ac48-49d0-af4d-fa28ab35fdfb",
+    "month": "JUNE",
+    "transaction": {
+      "title": "circuit",
+      "amount": 941,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "4b1d864b-27fd-4804-bcb9-24da2d00936f",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "system",
+      "amount": 731,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "cd8a490e-1589-4c92-b0c3-0793b8a4d80b",
+    "month": "JULY",
+    "transaction": {
+      "title": "panel",
+      "amount": 83,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "780a5dc1-a4b5-4ee7-a743-4a37defd34f5",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "card",
+      "amount": 547,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "d9c6d5ee-3c69-412e-93c0-718708b659a6",
+    "month": "JULY",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 782,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "cea913da-c91a-403d-9e8f-f0b5bbf329f9",
+    "month": "JULY",
+    "transaction": {
+      "title": "system",
+      "amount": 821,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "61a230c3-ab68-4c22-8b97-bdcb87ad58f2",
+    "month": "JUNE",
+    "transaction": {
+      "title": "microchip",
+      "amount": 801,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "574f7b9b-9629-4bcc-a773-e16a734d2d60",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 583,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "7d79a5f8-08f5-447d-a099-dddfc45d00b7",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "interface",
+      "amount": 871,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "7e69ae94-cdd7-45b8-b40b-2bcdaaa97f1b",
+    "month": "MARCH",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 435,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "052426ee-3b3e-4349-a37c-f485f2b6afb4",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 998,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "7b4a2de4-c516-4c60-84b0-aeb7aa82b842",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "pixel",
+      "amount": 789,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "055a3328-a27a-4268-86f9-b2ae21e94667",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "driver",
+      "amount": 219,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "736c9a6f-9b77-476f-a5d5-b737d50d1c8b",
+    "month": "JULY",
+    "transaction": {
+      "title": "pixel",
+      "amount": 302,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "aa1b363b-0862-4269-a3e3-b561d3e1fe73",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "bus",
+      "amount": 848,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "d859d63c-2c77-414c-aa7d-9740e43a03ca",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 375,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "4b696bfe-7e8c-4498-a1c5-fd53a3abf978",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "system",
+      "amount": 349,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "6eef2e3f-777b-445a-93df-70e23e742913",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "card",
+      "amount": 257,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "a08804a2-a0a2-4438-9c10-600b38399379",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "program",
+      "amount": 844,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "e58c0380-8f78-434d-9dbd-9047a3463e8a",
+    "month": "MARCH",
+    "transaction": {
+      "title": "microchip",
+      "amount": 268,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "c6a18e92-e944-4f1f-9470-e3d4191133f6",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "sensor",
+      "amount": 543,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "0c2e396f-a66a-4a75-ad4d-cfd9970efad6",
+    "month": "JULY",
+    "transaction": {
+      "title": "monitor",
+      "amount": 327,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "ad49f9d8-bebb-43a0-bc8f-e902ab23fc38",
+    "month": "APRIL",
+    "transaction": {
+      "title": "driver",
+      "amount": 594,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "35006dcb-8bf0-4daa-b315-24d510132a05",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "interface",
+      "amount": 682,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "72830d41-6825-4fb9-8a38-5cfd1874ff96",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 666,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "0a81bac8-7c48-44fc-89ef-c6d296ff9e12",
+    "month": "MARCH",
+    "transaction": {
+      "title": "feed",
+      "amount": 195,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "8525aee1-93df-4b09-b4c0-a828b8d72730",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "card",
+      "amount": 528,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "dbcb507a-8a9c-434e-a128-aa1074cf395f",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "matrix",
+      "amount": 401,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "cf20ae1d-2049-41c2-a36e-86867fa8a2f1",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "circuit",
+      "amount": 948,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "41e41a91-d95e-4175-8a51-8b508cf8b931",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "matrix",
+      "amount": 393,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "c464b228-9c00-4e08-81d4-2985d0fd2dae",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 349,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "277d78c9-8fb4-4b0c-8fb3-fc737c3a0df8",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "array",
+      "amount": 57,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "9df1432e-7f19-4260-895d-2fce4e9dbc12",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "firewall",
+      "amount": 800,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "f3b1737c-01e9-4c12-9e76-2f33e8c0d687",
+    "month": "JULY",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 179,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "11451f95-fa8d-4a24-8494-2e5c6bca55a6",
+    "month": "JULY",
+    "transaction": {
+      "title": "matrix",
+      "amount": 624,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "0b9e3044-e777-4c3d-8ef5-fc5d1e06e956",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "protocol",
+      "amount": 122,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "7ebe1ede-6321-40f2-ba94-2cccb73176f3",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "circuit",
+      "amount": 271,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "9018a7cf-28c0-432d-9f5d-afe97b6a51a9",
+    "month": "JUNE",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 476,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "023ee931-dac9-4df8-998c-35cc861638e5",
+    "month": "JUNE",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 779,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "fc0c6634-45ab-498c-83e1-3021b5f0e30b",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "circuit",
+      "amount": 401,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "4b04f2a2-a290-459a-80f0-884d29b64412",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "protocol",
+      "amount": 838,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "8af5d606-f0e5-4a6a-80ee-ba7cc41183cd",
+    "month": "MARCH",
+    "transaction": {
+      "title": "system",
+      "amount": 57,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "fb30d1bb-b7d6-4e88-a6d4-49e4b19475b2",
+    "month": "APRIL",
+    "transaction": {
+      "title": "pixel",
+      "amount": 221,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "f9052d65-4819-4da4-bb90-13fd5d684734",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "feed",
+      "amount": 692,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "feb5926d-063c-4f76-9567-978dfd5b0061",
+    "month": "MAY",
+    "transaction": {
+      "title": "bus",
+      "amount": 643,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "9224f689-8f3f-4566-8120-c0f79f1e0fd9",
+    "month": "MARCH",
+    "transaction": {
+      "title": "pixel",
+      "amount": 61,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "128a0739-9be1-4f66-b98a-8c050c411561",
+    "month": "JULY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 393,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "fc738b13-5aa8-41ff-bfe4-5cda7603e9e2",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 463,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "01d6d3b0-d946-4634-810d-0caa1150c88e",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "alarm",
+      "amount": 415,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "167fcc8c-cd0d-4265-a3ca-96c12c66b440",
+    "month": "JULY",
+    "transaction": {
+      "title": "panel",
+      "amount": 100,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "3c4afb64-a240-44d4-9465-5626083ca3eb",
+    "month": "MARCH",
+    "transaction": {
+      "title": "circuit",
+      "amount": 183,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "c9c2615d-8b2b-4663-bcee-9a357d3041f5",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 594,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "cdcfd0e6-207b-402c-96a4-d8933a6b612d",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 278,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "3a3cd1f5-0c47-4796-bc07-0d6f9b1f9c5e",
+    "month": "APRIL",
+    "transaction": {
+      "title": "port",
+      "amount": 97,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "c7c049f7-b6ca-4d13-8fb1-d04ae6617a31",
+    "month": "APRIL",
+    "transaction": {
+      "title": "application",
+      "amount": 911,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "4ec2cb44-a2fa-42a3-b52b-1310f4ab9337",
+    "month": "JUNE",
+    "transaction": {
+      "title": "system",
+      "amount": 146,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "4d14b280-653b-43f0-9160-57546cebf045",
+    "month": "JULY",
+    "transaction": {
+      "title": "program",
+      "amount": 50,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "c9650a54-23c7-42eb-a0e3-240d1b9e8d90",
+    "month": "APRIL",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 483,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "cbcbf1eb-79e3-4501-8d3e-92a164845ae9",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 521,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "490b0b76-128e-49f8-a81a-9727d6157447",
+    "month": "APRIL",
+    "transaction": {
+      "title": "alarm",
+      "amount": 623,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "932dca0b-90d6-4c4a-9077-bd18dcc634a6",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "driver",
+      "amount": 43,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "e55eac49-0f23-4ee4-a3eb-9b27d0f0dea4",
+    "month": "MAY",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 358,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "6c45dc9a-466a-4bdc-bb50-47aaefcbb9fa",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "protocol",
+      "amount": 597,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "a136b4e4-c8f2-47a5-a0ea-cbbf54b863b6",
+    "month": "MAY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 980,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "74b278d9-8078-423e-b8f3-57dbc4ffca1f",
+    "month": "JUNE",
+    "transaction": {
+      "title": "port",
+      "amount": 595,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "da17804d-edd7-4218-9857-286cdcef018c",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "port",
+      "amount": 961,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "69b1366e-7264-47f7-825b-8acfdbba6499",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "application",
+      "amount": 757,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "9059e476-004b-4ec5-b8c8-da5c319b43e7",
+    "month": "JUNE",
+    "transaction": {
+      "title": "microchip",
+      "amount": 690,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "dfb3aad7-05ff-4178-bcc3-9523cae57889",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "matrix",
+      "amount": 472,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "284a9edc-82db-4b6d-afa8-3c0676b59406",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "card",
+      "amount": 151,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "169ffdca-681b-4bf4-8f27-88d32d7a83d6",
+    "month": "JUNE",
+    "transaction": {
+      "title": "feed",
+      "amount": 637,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "263dbd1f-4b91-4cb2-906d-f27d5af536f8",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "matrix",
+      "amount": 600,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "2409080c-a311-44d9-bb45-99fc6e896721",
+    "month": "MARCH",
+    "transaction": {
+      "title": "bus",
+      "amount": 509,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "eeb44b80-c3a3-4b51-9b1d-c10c925ba2e9",
+    "month": "APRIL",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 491,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "ed4dc9ef-a8f2-414b-b630-b85b01c1dd8e",
+    "month": "JUNE",
+    "transaction": {
+      "title": "alarm",
+      "amount": 612,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "e688095b-a6cc-4920-bbc5-62739fc19346",
+    "month": "MARCH",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 779,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "e3fe082c-7295-48b6-a507-a2b174f8f262",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "alarm",
+      "amount": 184,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "7b9c5680-1f7b-4c03-812f-e2ae3fa8f23d",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "circuit",
+      "amount": 190,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "3c312060-332c-43ee-80ee-bdd15a41dca4",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "application",
+      "amount": 383,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "f6e77b6e-5c03-4237-983b-7c4b8b4b3a7c",
+    "month": "APRIL",
+    "transaction": {
+      "title": "sensor",
+      "amount": 872,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "53e716ba-21d3-4eb0-aa21-ab9af50f7cb3",
+    "month": "JULY",
+    "transaction": {
+      "title": "array",
+      "amount": 398,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "7482ce94-0c31-4b14-8b39-afbb076b7553",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "matrix",
+      "amount": 773,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "72985a2e-87a2-409e-b36f-0da55608c7f8",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "circuit",
+      "amount": 319,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "42bc21c9-f585-4336-85e1-9a781cbe0232",
+    "month": "APRIL",
+    "transaction": {
+      "title": "bus",
+      "amount": 61,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "2f77415d-28ba-4211-9c15-a26f425a69b4",
+    "month": "MAY",
+    "transaction": {
+      "title": "interface",
+      "amount": 508,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "018e41aa-cd46-4a9d-820a-90418cd22f44",
+    "month": "APRIL",
+    "transaction": {
+      "title": "program",
+      "amount": 806,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "a1257f4f-9026-4c9f-beb4-3d5affd78771",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "bus",
+      "amount": 494,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "f9b3602c-ebbb-4087-9262-5b49702d4a20",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 196,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "ac33a9af-8ad0-4282-9114-585edac0e584",
+    "month": "MARCH",
+    "transaction": {
+      "title": "alarm",
+      "amount": 172,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "0bc1c79e-76c2-4c34-8ec2-34780f97ec77",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "matrix",
+      "amount": 189,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "0f7603d1-1b9c-4e00-a685-caf0edc35c43",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "application",
+      "amount": 671,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "9b970a9d-1ce5-4629-81e4-14f03cd42c5f",
+    "month": "JUNE",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 593,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "3e451fac-e049-49e7-b2d7-6c6bb5d36be3",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "driver",
+      "amount": 973,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "0986ebfe-cb48-4555-9e21-9270b0375e70",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "program",
+      "amount": 991,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "71fe11e6-4f55-477f-867c-628ac1c1b758",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "circuit",
+      "amount": 278,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "6b822488-25a0-4c06-91c6-cc92fc0cc797",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 530,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "eab3c714-25e1-43d2-95a9-5ebb2ac542e1",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 642,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "15f73b21-d902-4a67-b31d-b6e076f8f310",
+    "month": "MARCH",
+    "transaction": {
+      "title": "firewall",
+      "amount": 55,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "7dc2790a-2716-4be7-a50f-f0888e21de99",
+    "month": "JUNE",
+    "transaction": {
+      "title": "firewall",
+      "amount": 972,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "791b6e14-39ca-4819-8c7c-03aadd672901",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "alarm",
+      "amount": 326,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "9e76ab86-dd05-4abc-ac8e-82009fe980eb",
+    "month": "MAY",
+    "transaction": {
+      "title": "port",
+      "amount": 930,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "3b5fcb71-a02f-4649-a1be-215adb7c6b5c",
+    "month": "MAY",
+    "transaction": {
+      "title": "monitor",
+      "amount": 429,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "30b8d590-e4cb-480f-81ad-300749cc042d",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 6,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "aaf6bb59-72d0-40c3-b3fb-8f26ee4e83db",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "protocol",
+      "amount": 986,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "9aa4279a-2470-497c-abb8-3a836bbe09b7",
+    "month": "JUNE",
+    "transaction": {
+      "title": "sensor",
+      "amount": 911,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "536db6af-dd00-4497-b7c8-2f5afad84169",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "microchip",
+      "amount": 684,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "ddfd04be-dcad-4091-9513-d69b0293457f",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "monitor",
+      "amount": 896,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "c2ed0bfd-f848-48ae-bc0f-85c82e4d11a0",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 446,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "b35d02be-ccad-4128-9b7d-4db697c7d94d",
+    "month": "MARCH",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 238,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "e7b247ed-1acd-46a5-a99f-8247e791eb0f",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "application",
+      "amount": 245,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "aeeb9b68-2b1b-40dc-b9b2-bf3d415ff5a9",
+    "month": "JUNE",
+    "transaction": {
+      "title": "system",
+      "amount": 881,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "a4bb7ecc-c87b-459f-927e-a278d5b014cb",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "microchip",
+      "amount": 233,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "36953ba4-fe30-463b-b0c1-777c180080d7",
+    "month": "OCTOBER",
+    "transaction": {
+      "title": "sensor",
+      "amount": 550,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "f8b0377c-af83-4163-b98e-d27388eac52b",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "application",
+      "amount": 122,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "bf25588b-b9e1-43ec-8bdb-8f05c21e52cc",
+    "month": "APRIL",
+    "transaction": {
+      "title": "bus",
+      "amount": 213,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "2d37d5af-9425-4830-8d6a-434a0c27d328",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "firewall",
+      "amount": 415,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "934d3529-a214-497e-aba2-a44773d4a10c",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "protocol",
+      "amount": 831,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "4364187d-6a1f-440a-a52d-c0b26b3dc383",
+    "month": "JUNE",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 982,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "8855938c-6a5c-47a9-aeba-3e0dc3747798",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "pixel",
+      "amount": 85,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "b267fcef-3d1f-41e4-8589-0570ad460278",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "array",
+      "amount": 182,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "f689f886-efec-4e0d-83ee-1173969d3e62",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "monitor",
+      "amount": 593,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "a12c35be-c9c4-42c4-bf7e-ca33177dd4cd",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 638,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "15c02154-5834-4e25-95d0-43cb2dadfa32",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "pixel",
+      "amount": 815,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "f4940d6b-9aaf-47bd-a3c8-f3f2763bcca9",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "microchip",
+      "amount": 208,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "b6503c7f-c340-427d-8745-503127b82613",
+    "month": "JUNE",
+    "transaction": {
+      "title": "system",
+      "amount": 339,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "a1837864-7ab3-445a-8475-86b67c479a70",
+    "month": "JANUARY",
+    "transaction": {
+      "title": "pixel",
+      "amount": 741,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "ff366e30-be3b-43e2-bb70-9e0e652580f4",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "pixel",
+      "amount": 708,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "e380c472-6c91-45a6-9e8f-1ff21b7fff09",
+    "month": "MARCH",
+    "transaction": {
+      "title": "transmitter",
+      "amount": 346,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "794f6785-d3b5-40db-b095-d3ebcadc3f09",
+    "month": "JUNE",
+    "transaction": {
+      "title": "port",
+      "amount": 53,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "8bec534d-9913-4b1b-897b-a6358672516c",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "array",
+      "amount": 79,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "8548b82a-a178-47e3-9632-c59364218dd7",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "bandwidth",
+      "amount": 51,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "c2f2e81d-34b1-444e-8fcc-ebbceff39506",
+    "month": "MARCH",
+    "transaction": {
+      "title": "driver",
+      "amount": 101,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "ad77b2c6-d8f4-47a8-bb69-e530c931bc19",
+    "month": "DECEMBER",
+    "transaction": {
+      "title": "card",
+      "amount": 768,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "b73a1133-c322-4200-aeda-109436d9996c",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "firewall",
+      "amount": 31,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "3e423009-5a91-4b89-8cbb-cd7e5eca80c8",
+    "month": "MAY",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 69,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "152fe041-3cd9-4b57-a27e-85eac059a413",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "firewall",
+      "amount": 500,
+      "category": "MEDICAL"
+    }
+  },
+  {
+    "uuid": "d6c64313-494d-4ef1-9d00-ef4a4c7f3f5b",
+    "month": "FEBRUARY",
+    "transaction": {
+      "title": "hard drive",
+      "amount": 200,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "b4d13eec-0700-4897-95cc-1156317a29a2",
+    "month": "APRIL",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 623,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "20b09735-d646-49b9-b212-4cbf7be27d61",
+    "month": "AUGUST",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 192,
+      "category": "TRAVEL"
+    }
+  },
+  {
+    "uuid": "7f75d912-1365-4cb7-91ca-0ffec7938344",
+    "month": "MAY",
+    "transaction": {
+      "title": "panel",
+      "amount": 59,
+      "category": "FOOD"
+    }
+  },
+  {
+    "uuid": "9962e79e-843d-4b70-bd7a-61c2f691c0b3",
+    "month": "JUNE",
+    "transaction": {
+      "title": "port",
+      "amount": 993,
+      "category": "GROCERIES"
+    }
+  },
+  {
+    "uuid": "2ea42f98-7d97-4f1a-96d2-f2320766fb4f",
+    "month": "SEPTEMBER",
+    "transaction": {
+      "title": "microchip",
+      "amount": 576,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "f66c6dfd-0ac0-4beb-9109-11f3b060d600",
+    "month": "MARCH",
+    "transaction": {
+      "title": "capacitor",
+      "amount": 881,
+      "category": "EDUCATION"
+    }
+  },
+  {
+    "uuid": "4e8a1677-5c24-4c53-a52d-7e4dee8bb0c2",
+    "month": "APRIL",
+    "transaction": {
+      "title": "alarm",
+      "amount": 340,
+      "category": "OTHER"
+    }
+  },
+  {
+    "uuid": "916c2e43-de11-4b7a-b1d3-01e2b49766a4",
+    "month": "MAY",
+    "transaction": {
+      "title": "interface",
+      "amount": 895,
+      "category": "ENTERTAINMENT"
+    }
+  },
+  {
+    "uuid": "581606b5-4064-4466-a5f3-02a60420cefc",
+    "month": "NOVEMBER",
+    "transaction": {
+      "title": "bus",
+      "amount": 611,
+      "category": "OTHER"
+    }
+  }
+]

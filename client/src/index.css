@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.cointainer{
+  display: flex;
+  flex-direction: row;
+}
+
+.expenseList{
+  height: 82vh;
+  width: 50%;
+  overflow: scroll;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#cardsDiv{
+  height: 100%;
+  position: sticky;
+  top: 0;
+}
+@media (max-width:1000px) {
+    #cardsDiv{
+      position: static;
+    }
+}
+.profileImg{
+  border-radius: 50%;
+}
+
+#dropdown{
+  min-width: 100px;
+  width: auto;
+  height: 30px;
+  border-radius: 10px;
+  background-color: #0D6CFE;
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#dropdown-items{
+  color: black;
+  background-color: white;
+}
+
+#Top-Nav{
+  background-color: #3A3D46;
+}
