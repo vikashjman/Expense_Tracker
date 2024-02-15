@@ -14,7 +14,7 @@ function MydModalWithGrid(props) {
     handleAdd();
   };
 
-  console.log("Props0", props);
+ 
 
   return (
     <Modal

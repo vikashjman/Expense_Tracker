@@ -1,17 +1,15 @@
 import React, { useEffect, useState } from "react";
-import "./Budget.css";
+import "./BudgetPlanner.styles.css";
 import Button from "react-bootstrap/Button";
 import Modal from "react-bootstrap/Modal";
-import Form from "./Form";
-import { fetchAllBudgets, getExpense } from "../api";
-import { CATEGORY, MONTH } from "../constants/constant";
+import Form from "../BudgetForm/BudgetForm.component";
+import { fetchAllBudgets, getExpense } from "../../api";
+import { CATEGORY, MONTH } from "../../constants/constant";
 
 
 
 function BudgetPlanner({ expenses }) {
   const [budget, setBudget] = useState([]);
-
-
 
   function getMonthlyCategorySpending(transactions) {
     const monthlyData = {};
@@ -33,14 +31,13 @@ function BudgetPlanner({ expenses }) {
       monthlyData[month][category] += amount;
     });
 
-    console.log("monthlyData", monthlyData);
 
     return monthlyData;
   }
 
   useEffect(() => {
     const getBudgets = async () => {
-      console.log("expp", expenses);
+
 
       const expenseResponse = await getExpense();
       const budgetResponse = await fetchAllBudgets();
@@ -48,7 +45,7 @@ function BudgetPlanner({ expenses }) {
       const expenseData = expenseResponse.data;
       const budgetData = budgetResponse.data;
 
-      console.log("expense:", expenseData, "budget:", budgetData)
+  
       const monthlyCategorySpendings = getMonthlyCategorySpending(expenseData);
       let budgetList = [];
 
@@ -100,15 +97,8 @@ function BudgetPlanner({ expenses }) {
     return { category, totalBudget, totalSpent };
   });
 
-  // Calculate total budget without any filters
-  const totalBudgetWithoutFilters = budget.reduce(
-    (acc, item) => acc + item.categoryBudget,
-    0
-  );
-
   // Function to calculate completion percentage for a category
   const calculateCompletionPercentage = (totalSpent, totalBudget) => {
-    console.log(totalSpent, totalBudget);
     return Math.round((totalSpent / totalBudget) * 100) || 0;
   };
 

@@ -1,8 +1,10 @@
 import { useEffect, useState } from "react";
-
 import React from "react";
-import { fetchAllBudgets, postBudget } from "../api";
-import { CATEGORY } from "../constants/constant";
+
+import { fetchAllBudgets, postBudget } from "../../api";
+import { CATEGORY } from "../../constants/constant";
+import { percentToVal, valToPercent } from "../../utils/generateExpense.utils";
+
 
 function Form() {
   const [monthly, setMonthly] = useState("");
@@ -19,18 +21,7 @@ function Form() {
     get_all_budget();
   }, []);
 
-  const percentToVal = (percent, total) => {
-    return (percent * total) / 100;
-  };
-  const valToPercent = (val, total) => {
-    if (isNaN(total) || total === 0) {
-      return 0;
-    }
-    if (isNaN(val)) {
-      return 0;
-    }
-    return Math.round((val / total) * 100);
-  };
+  
 
   const handleMonthlyChange = (e) => {
     const value = e.target.value;
@@ -106,7 +97,7 @@ function Form() {
       setCategory("");
       setCategoryPercent(0);
 
-      console.log("Budget submitted successfully and state updated.");
+
     } catch (error) {
       console.error("Error submitting budget:", error);
     }
@@ -121,7 +112,6 @@ function Form() {
       const budgetIndex = budgets[index].budgets.findIndex(
         (ele) => ele.category === newCat
       );
-      console.log("budget", budgetIndex);
       if (budgetIndex !== -1) {
         const preCatVal = budgets[index].budgets[budgetIndex].amount;
         setCategoryPercent(valToPercent(preCatVal, monthlyBudget));

@@ -7,15 +7,26 @@ import Col from "react-bootstrap/Col";
 import { deleteExpense, postExpense } from "../api";
 import { CATEGORY } from "../constants/constant";
 
-import Cards from "../components/Cards";
+import Cards from "../components/TransactionCards/TransactionCard.component";
 import ChartsView from "../components/ChartsView/ChartsView.component";
-import BudgetPlanner from "../components/BudgetPlanner";
-import Nav from "../components/Nav";
-import TopNav from "../components/TopNav";
-import AddTransaction  from '../components/AddTransaction/AddTransaction.component'
+import BudgetPlanner from "../components/BudgetPlanner/BudgetPlanner.component";
+import Nav from "../components/Navbar/SideNav.component";
+import TopNav from "../components/Navbar/TopNav.component";
+import AddTransaction from '../components/AddTransaction/AddTransaction.component'
 
 
 const Homepage = () => {
+    /* 
+        This is the inital state for newExpense state
+        newExpense State: it will be passed down inside to  AddTransaction Component
+        From Where it will passed down Transaction Modal
+        Where 
+
+        it is used to handle the form state for new Transaction
+
+        three complementary function will also be used or passed to handle the effects.
+        #handleChange, #handleAdd, handleDeleteExpense
+    */
     const initialState = {
         month: "JANUARY",
         title: "",
@@ -25,8 +36,10 @@ const Homepage = () => {
     const [newExpense, setnewExpense] = useState(initialState);
     const [expenses, setExpenses] = useState([]);
     const [searchText, setSearchText] = useState("");
-
-    const handleAdd = async (e) => {
+ 
+    const handleAddExpense = async (e) => {
+        // It will create a payload from the newExpense state to send to backend
+        // which follow the mongodb schema structure in backend
         const payload = {
             uuid: uuidv4(),
             month: newExpense.month,
@@ -36,69 +49,35 @@ const Homepage = () => {
                 category: newExpense.category,
             },
         };
+        // This function encapsulate the AXIOS post request call to backend for transefer
+        // TODO: add tryCatch
         await postExpense(payload); //dB post
+        // This new resets the newExpense initial State
         setnewExpense(initialState); // state update
+        // This new update the expenses list
         setExpenses([...expenses, payload]);
     };
 
-    const handleChange = (e) => {
+    const handleChangeExpense = (e) => {
         const { name, value } = e.target;
 
+
+        // So, every input field have a name given, which matches with property of newExpense state
+        // so, we can identify the value that comming from event.target is 
+        // from which input and change that inputs value
+        // for furthur clarification see
         setnewExpense({ ...newExpense, [name]: value });
-        console.log(newExpense);
     };
 
     const handleDeleteExpense = async (id) => {
-        // if(!id) return;
-        console.log("Handle Delete", id);
         const updatedExpenses = expenses.filter((expense) => expense.uuid !== id);
         setExpenses(updatedExpenses);
         await deleteExpense(id);
     };
 
-    const generateYearlyExpense = () => {
-        const monthlyTotals = {
-            january: 0,
-            february: 0,
-            march: 0,
-            april: 0,
-            may: 0,
-            june: 0,
-            july: 0,
-            august: 0,
-            september: 0,
-            october: 0,
-            november: 0,
-            december: 0,
-        };
+    
 
-        expenses.forEach((exp) => {
-            const monthKey = exp.month.toLowerCase();
-            if (monthKey in monthlyTotals) {
-                monthlyTotals[monthKey] += parseInt(exp.transaction.amount) || 0;
-            }
-        });
-
-        return Object.values(monthlyTotals);
-    };
-
-    const getMonthlyCategoryExpense = (month) => {
-        let categorySpent = {};
-
-        const newExpense = expenses.filter((exp) => exp.month === month);
-
-        Object.values(CATEGORY).forEach((cat) => {
-            categorySpent[cat] = 0;
-        });
-
-        newExpense.forEach(({ transaction }) => {
-            const { category, amount } = transaction;
-            if (categorySpent.hasOwnProperty(category)) {
-                categorySpent[category] += parseInt(amount) || 0;
-            }
-        });
-        return Object.values(categorySpent);
-    };
+    
 
 
 
@@ -132,8 +111,8 @@ const Homepage = () => {
                                 <Col xs="auto">
                                     <AddTransaction
                                         newExpense={newExpense}
-                                        handleAdd={handleAdd}
-                                        handleChange={handleChange}
+                                        handleAddExpense={handleAddExpense}
+                                        handleChangeExpense={handleChangeExpense}
                                     />
                                 </Col>
                             </Row>
@@ -154,8 +133,7 @@ const Homepage = () => {
                         </div>
                         <div className="row" style={{ paddingTop: "10px" }}>
                             <ChartsView
-                                getMonthlyCategoryExpense={getMonthlyCategoryExpense}
-                                generateYearlyExpense={generateYearlyExpense}
+                                expenses={expenses}
                             />
                         </div>
                     </div>

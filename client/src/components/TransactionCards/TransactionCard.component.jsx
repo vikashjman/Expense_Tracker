@@ -1,15 +1,17 @@
 import React, { useEffect } from "react";
-import Education from "../images/Education.png";
-import FOOD from "../images/Food.png";
-import Travel from "../images/Travel.png";
-import "./Elements.css";
-import { getExpense } from "../api";
-import Medical from "../images/Medical.png"
-import Others from "../images/Others.png"
-import GROCERIES from "../images/Shopping.png"
-import entertainment from "../images/entertainment.png"
+import "./TransactionCard.styles.css";
+import { getExpense } from "../../api";
 
-function Elements(props) {
+
+import Travel from "../../images/Travel.png";
+import FOOD from "../../images/Food.png";
+import Medical from "../../images/Medical.png"
+import Others from "../../images/Others.png"
+import GROCERIES from "../../images/Shopping.png"
+import entertainment from "../../images/entertainment.png"
+import Education from "../../images/Education.png";
+
+function TransactionCard(props) {
   // Map each category to its corresponding image
   const categoryImageMap = {
     EDUCATION: Education,
@@ -56,7 +58,7 @@ function Elements(props) {
               {" "}
               {expense.transaction.amount}
             </label>
-            {console.log(expense)}
+
             <button onClick={() => handleDeleteExpense(expense.uuid)}>
               Delete
             </button>
@@ -66,4 +68,4 @@ function Elements(props) {
   );
 }
 
-export default Elements;
+export default TransactionCard;

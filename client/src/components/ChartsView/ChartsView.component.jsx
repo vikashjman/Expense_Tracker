@@ -5,7 +5,7 @@ import { MONTH } from "../../constants/constant";
 
 const ChartsView = (props) => {
   const [view, setView] = useState("Yearly");
-  const { generateYearlyExpense, getMonthlyCategoryExpense } = props;
+  const { expenses } = props;
   const viewCheck = (graph) => view.toUpperCase() === graph.toUpperCase();
 
   return (
@@ -27,12 +27,12 @@ const ChartsView = (props) => {
            return (viewCheck(mon) && (
             <Charts
               view={view}
-              getMonthlyCategoryExpense={getMonthlyCategoryExpense}
+              expenses={expenses}
             />
           ));
         })}
         {viewCheck("Yearly") && (
-          <LineGraph generateYearlyExpense={generateYearlyExpense} />
+          <LineGraph expenses={expenses}  />
         )}
       </div>
     </div>

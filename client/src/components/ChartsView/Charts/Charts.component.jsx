@@ -2,17 +2,18 @@ import React, { useState, useEffect } from "react";
 import { Doughnut } from "react-chartjs-2";
 import { Chart as ChartJS, ArcElement, Tooltip, Legend } from "chart.js";
 import { CATEGORY } from "../../../constants/constant"
+import { getExpensesByMonthForCategory } from '../../../utils/generateExpense.utils'
 
 ChartJS.register(ArcElement, Tooltip, Legend);
 
-export default function Charts({getMonthlyCategoryExpense, view:month}) {
+export default function Charts({view:month, expenses}) {
 
   const data = {
     labels: Object.values(CATEGORY),
     datasets: [
       {
         label: "You Spent ₹",
-        data: getMonthlyCategoryExpense(month),
+        data: getExpensesByMonthForCategory(month,expenses),
         backgroundColor: [
           "rgb(255, 99, 132)",
           "rgb(54, 162, 235)",
@@ -27,6 +28,5 @@ export default function Charts({getMonthlyCategoryExpense, view:month}) {
     ],
   };
 
-  console.log(month, data)
   return <div>{ <Doughnut data={data} />}</div>;
 }

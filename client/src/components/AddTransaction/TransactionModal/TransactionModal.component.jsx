@@ -6,13 +6,13 @@ import Modal from "react-bootstrap/Modal";
 import Row from "react-bootstrap/Row";
 import { CATEGORY, MONTH } from "../../../constants/constant";
 function TransactionModal(props) {
-    const { newExpense, handleChange, handleAdd } = props;
+    const { newExpense, handleChangeExpense, handleAddExpense } = props;
     const onClickHandler = () => {
         props.onHide();
-        handleAdd();
+        handleAddExpense();
     };
 
-    console.log("Props0", props);
+
 
     return (
         <Modal
@@ -34,7 +34,7 @@ function TransactionModal(props) {
                             <select
                                 value={newExpense.category}
                                 name="category"
-                                onChange={(e) => handleChange(e)}
+                                onChange={(e) => handleChangeExpense(e)}
                             >
                                 {Object.values(CATEGORY).map(cat => <option value={cat}>{cat}</option>)}
 
@@ -47,7 +47,7 @@ function TransactionModal(props) {
                                 type="text"
                                 id="label"
                                 placeholder="Description"
-                                onChange={(e) => handleChange(e)}
+                                onChange={(e) => handleChangeExpense(e)}
                             />
                         </Col>
                     </Row>
@@ -60,7 +60,7 @@ function TransactionModal(props) {
                                 placeholder="expenses ₹"
                                 name="amount"
                                 value={newExpense.amount}
-                                onChange={(e) => handleChange(e)}
+                                onChange={(e) => handleChangeExpense(e)}
                             />
                         </Col>
 
@@ -71,7 +71,7 @@ function TransactionModal(props) {
                             <select
                                 name="month"
                                 value={newExpense.month}
-                                onChange={(e) => handleChange(e)}
+                                onChange={(e) => handleChangeExpense(e)}
                             >
                                 {Object.values(MONTH).map((mon) => <option value={mon}>{mon}</option>)}
                             </select>

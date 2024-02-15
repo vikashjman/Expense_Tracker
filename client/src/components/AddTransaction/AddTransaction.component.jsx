@@ -4,7 +4,7 @@ import Button from "react-bootstrap/Button";
 
 const AddTransaction = (props) => {
     const [modalShow, setModalShow] = useState(false);
-    const { newExpense, handleAdd, handleChange } = props;
+    const { newExpense, handleAddExpense, handleChangeExpense } = props;
 
     return (
         <>
@@ -18,8 +18,8 @@ const AddTransaction = (props) => {
 
             <TransactionModal
                 newExpense={newExpense}
-                handleAdd={handleAdd}
-                handleChange={handleChange}
+                handleAddExpense={handleAddExpense}
+                handleChangeExpense={handleChangeExpense}
                 show={modalShow}
                 onHide={() => setModalShow(false)}
             />
