@@ -7,7 +7,7 @@ const router = require("./routes/route");
 const { errorHandler, notFound } = require("./middleware/error.middleware");
 dotenv.config();
 
-const app = express();
+const app = express(); 
 
 app.use(cors());
 app.use(express.json());
