@@ -1,408 +1,408 @@
 [
   {
     "month": "JANUARY",
-    "monthlyBudget": 57177,
+    "monthlyBudget": 55673,
     "budgets": [
       {
-        "amount": 8172,
+        "amount": 8573,
         "category": "FOOD"
       },
       {
-        "amount": 8706,
+        "amount": 8275,
         "category": "TRAVEL"
       },
       {
-        "amount": 8046,
+        "amount": 7475,
         "category": "EDUCATION"
       },
       {
-        "amount": 7772,
+        "amount": 7680,
         "category": "MEDICAL"
       },
       {
-        "amount": 7430,
+        "amount": 7917,
         "category": "OTHER"
       },
       {
-        "amount": 8506,
+        "amount": 7678,
         "category": "GROCERIES"
       },
       {
-        "amount": 8545,
+        "amount": 8075,
         "category": "ENTERTAINMENT"
       }
     ]
   },
   {
     "month": "FEBRUARY",
-    "monthlyBudget": 53109,
+    "monthlyBudget": 54369,
     "budgets": [
       {
-        "amount": 7701,
+        "amount": 7299,
         "category": "FOOD"
       },
       {
-        "amount": 8075,
+        "amount": 8373,
         "category": "TRAVEL"
       },
       {
-        "amount": 7118,
+        "amount": 7606,
         "category": "EDUCATION"
       },
       {
-        "amount": 7648,
+        "amount": 7315,
         "category": "MEDICAL"
       },
       {
-        "amount": 7891,
+        "amount": 7174,
         "category": "OTHER"
       },
       {
-        "amount": 7199,
+        "amount": 8143,
         "category": "GROCERIES"
       },
       {
-        "amount": 7477,
+        "amount": 8459,
         "category": "ENTERTAINMENT"
       }
     ]
   },
   {
     "month": "MARCH",
-    "monthlyBudget": 53119,
+    "monthlyBudget": 54714,
     "budgets": [
       {
-        "amount": 7330,
+        "amount": 8301,
         "category": "FOOD"
       },
       {
-        "amount": 7879,
+        "amount": 8306,
         "category": "TRAVEL"
       },
       {
-        "amount": 8044,
+        "amount": 8996,
         "category": "EDUCATION"
       },
       {
-        "amount": 7044,
+        "amount": 7034,
         "category": "MEDICAL"
       },
       {
-        "amount": 7451,
+        "amount": 7057,
         "category": "OTHER"
       },
       {
-        "amount": 8074,
+        "amount": 7074,
         "category": "GROCERIES"
       },
       {
-        "amount": 7297,
+        "amount": 7946,
         "category": "ENTERTAINMENT"
       }
     ]
   },
   {
     "month": "APRIL",
-    "monthlyBudget": 57478,
+    "monthlyBudget": 55613,
     "budgets": [
       {
-        "amount": 8130,
+        "amount": 7741,
         "category": "FOOD"
       },
       {
-        "amount": 8988,
+        "amount": 7866,
         "category": "TRAVEL"
       },
       {
-        "amount": 7650,
+        "amount": 7146,
         "category": "EDUCATION"
       },
       {
-        "amount": 8510,
+        "amount": 7786,
         "category": "MEDICAL"
       },
       {
-        "amount": 7859,
+        "amount": 8605,
         "category": "OTHER"
       },
       {
-        "amount": 8452,
+        "amount": 7999,
         "category": "GROCERIES"
       },
       {
-        "amount": 7889,
+        "amount": 8470,
         "category": "ENTERTAINMENT"
       }
     ]
   },
   {
     "month": "MAY",
-    "monthlyBudget": 53716,
+    "monthlyBudget": 55988,
     "budgets": [
       {
-        "amount": 7172,
+        "amount": 8355,
         "category": "FOOD"
       },
       {
-        "amount": 7640,
+        "amount": 8342,
         "category": "TRAVEL"
       },
       {
-        "amount": 7267,
+        "amount": 7758,
         "category": "EDUCATION"
       },
       {
-        "amount": 7417,
+        "amount": 7572,
         "category": "MEDICAL"
       },
       {
-        "amount": 8204,
+        "amount": 7333,
         "category": "OTHER"
       },
       {
-        "amount": 8871,
+        "amount": 8289,
         "category": "GROCERIES"
       },
       {
-        "amount": 7145,
+        "amount": 8339,
         "category": "ENTERTAINMENT"
       }
     ]
   },
   {
     "month": "JUNE",
-    "monthlyBudget": 55390,
+    "monthlyBudget": 58670,
     "budgets": [
       {
-        "amount": 8995,
+        "amount": 8748,
         "category": "FOOD"
       },
       {
-        "amount": 7828,
+        "amount": 8372,
         "category": "TRAVEL"
       },
       {
-        "amount": 7683,
+        "amount": 8825,
         "category": "EDUCATION"
       },
       {
-        "amount": 8591,
+        "amount": 8670,
         "category": "MEDICAL"
       },
       {
-        "amount": 7135,
+        "amount": 8353,
         "category": "OTHER"
       },
       {
-        "amount": 7672,
+        "amount": 8080,
         "category": "GROCERIES"
       },
       {
-        "amount": 7486,
+        "amount": 7622,
         "category": "ENTERTAINMENT"
       }
     ]
   },
   {
     "month": "JULY",
-    "monthlyBudget": 54275,
+    "monthlyBudget": 56351,
     "budgets": [
       {
-        "amount": 7625,
+        "amount": 8283,
         "category": "FOOD"
       },
       {
-        "amount": 7627,
+        "amount": 8811,
         "category": "TRAVEL"
       },
       {
-        "amount": 7184,
+        "amount": 7616,
         "category": "EDUCATION"
       },
       {
-        "amount": 8591,
+        "amount": 7665,
         "category": "MEDICAL"
       },
       {
-        "amount": 7062,
+        "amount": 7765,
         "category": "OTHER"
       },
       {
-        "amount": 7366,
+        "amount": 8043,
         "category": "GROCERIES"
       },
       {
-        "amount": 8820,
+        "amount": 8168,
         "category": "ENTERTAINMENT"
       }
     ]
   },
   {
     "month": "AUGUST",
-    "monthlyBudget": 57296,
+    "monthlyBudget": 53920,
     "budgets": [
       {
-        "amount": 8658,
+        "amount": 8464,
         "category": "FOOD"
       },
       {
-        "amount": 8331,
+        "amount": 7619,
         "category": "TRAVEL"
       },
       {
-        "amount": 8464,
+        "amount": 7816,
         "category": "EDUCATION"
       },
       {
-        "amount": 7068,
+        "amount": 7341,
         "category": "MEDICAL"
       },
       {
-        "amount": 8639,
+        "amount": 7385,
         "category": "OTHER"
       },
       {
-        "amount": 8304,
+        "amount": 7195,
         "category": "GROCERIES"
       },
       {
-        "amount": 7832,
+        "amount": 8100,
         "category": "ENTERTAINMENT"
       }
     ]
   },
   {
     "month": "SEPTEMBER",
-    "monthlyBudget": 56480,
+    "monthlyBudget": 54712,
     "budgets": [
       {
-        "amount": 8634,
+        "amount": 7875,
         "category": "FOOD"
       },
       {
-        "amount": 8178,
+        "amount": 7883,
         "category": "TRAVEL"
       },
       {
-        "amount": 8745,
+        "amount": 7827,
         "category": "EDUCATION"
       },
       {
-        "amount": 8392,
+        "amount": 7647,
         "category": "MEDICAL"
       },
       {
-        "amount": 7033,
+        "amount": 7124,
         "category": "OTHER"
       },
       {
-        "amount": 7560,
+        "amount": 7594,
         "category": "GROCERIES"
       },
       {
-        "amount": 7938,
+        "amount": 8762,
         "category": "ENTERTAINMENT"
       }
     ]
   },
   {
     "month": "OCTOBER",
-    "monthlyBudget": 55634,
+    "monthlyBudget": 55191,
     "budgets": [
       {
-        "amount": 7615,
+        "amount": 7009,
         "category": "FOOD"
       },
       {
-        "amount": 8697,
+        "amount": 8996,
         "category": "TRAVEL"
       },
       {
-        "amount": 7911,
+        "amount": 8316,
         "category": "EDUCATION"
       },
       {
-        "amount": 7378,
+        "amount": 7440,
         "category": "MEDICAL"
       },
       {
-        "amount": 8331,
+        "amount": 7633,
         "category": "OTHER"
       },
       {
-        "amount": 8199,
+        "amount": 7043,
         "category": "GROCERIES"
       },
       {
-        "amount": 7503,
+        "amount": 8754,
         "category": "ENTERTAINMENT"
       }
     ]
   },
   {
     "month": "NOVEMBER",
-    "monthlyBudget": 54376,
+    "monthlyBudget": 56804,
     "budgets": [
       {
-        "amount": 7214,
+        "amount": 7549,
         "category": "FOOD"
       },
       {
-        "amount": 8129,
+        "amount": 8602,
         "category": "TRAVEL"
       },
       {
-        "amount": 7067,
+        "amount": 8568,
         "category": "EDUCATION"
       },
       {
-        "amount": 8894,
+        "amount": 8830,
         "category": "MEDICAL"
       },
       {
-        "amount": 7464,
+        "amount": 7425,
         "category": "OTHER"
       },
       {
-        "amount": 7233,
+        "amount": 7920,
         "category": "GROCERIES"
       },
       {
-        "amount": 8375,
+        "amount": 7910,
         "category": "ENTERTAINMENT"
       }
     ]
   },
   {
     "month": "DECEMBER",
-    "monthlyBudget": 55402,
+    "monthlyBudget": 57047,
     "budgets": [
       {
-        "amount": 8190,
+        "amount": 7352,
         "category": "FOOD"
       },
       {
-        "amount": 7131,
+        "amount": 8157,
         "category": "TRAVEL"
       },
       {
-        "amount": 8728,
+        "amount": 8969,
         "category": "EDUCATION"
       },
       {
-        "amount": 7386,
+        "amount": 8702,
         "category": "MEDICAL"
       },
       {
-        "amount": 8459,
+        "amount": 7502,
         "category": "OTHER"
       },
       {
-        "amount": 7890,
+        "amount": 7902,
         "category": "GROCERIES"
       },
       {
-        "amount": 7618,
+        "amount": 8463,
         "category": "ENTERTAINMENT"
       }
     ]

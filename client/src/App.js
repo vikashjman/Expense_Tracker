@@ -10,11 +10,11 @@ import Nav from "./components/Nav";
 import TopNav from "./components/TopNav";
 import { AddNew } from "./components/AddNew";
 import Form from "react-bootstrap/Form";
-import Button from "react-bootstrap/Button";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import { CATEGORY } from "./constants/constant";
-const Homepage = () => {
+import Homepage from "./pages/Homepage.page";
+const Page = () => {
   const initialState = {
     month: "JANUARY",
     title: "",
@@ -23,6 +23,7 @@ const Homepage = () => {
   };
   const [newExpense, setnewExpense] = useState(initialState);
   const [expenses, setExpenses] = useState([]);
+  const [searchText, setSearchText] = useState("");
 
   const handleAdd = async (e) => {
     const payload = {
@@ -98,8 +99,8 @@ const Homepage = () => {
     return Object.values(categorySpent);
   };
 
-  // Search State & it's function
-  const [searchText, setSearchText] = useState("");
+
+ 
   return (
     <div className="App row container-fluid p-0">
       <div className="col-lg-2 col-12 p-0" >
@@ -162,6 +163,10 @@ const Homepage = () => {
     </div>
   );
 };
+
+
+
+
 function App() {
   return (
     <Routes>

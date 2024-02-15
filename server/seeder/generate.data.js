@@ -17,7 +17,7 @@ const generateRandomExpense = () => {
 
 const generateRandomExpenses = () => {
     const expenses = [];
-    for (let i = 0; i < 1000; i++) {
+    for (let i = 0; i < 500; i++) {
         expenses.push(generateRandomExpense());
     }
     return expenses;
