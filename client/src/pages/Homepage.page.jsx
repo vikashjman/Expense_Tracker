@@ -136,7 +136,7 @@ const Homepage = () => {
                     </div>
                     <div
                         className="col-lg-6 col-12"
-                        style={{ height: "90vh", overflowY: "scroll", paddingTop: "30px" }}
+                        style={{ height: "90vh", overflowY: "scroll", padding: "30px" }}
                     >
                         <div className="row">
                             <BudgetPlanner  />
