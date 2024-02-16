@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = axios.create();
+const API = axios.create({ baseURL: "" });
 //post
 export const postExpense = async (payload) => {
   await API.post("/expense", payload);
