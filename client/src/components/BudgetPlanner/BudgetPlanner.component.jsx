@@ -209,6 +209,8 @@ const yearlyData = [
 */
 
 function BudgetPlanner({ expenses }) {
+
+
   const [budgetsFlatList, setBudgetsFlatList] = useState([]);
   function getMonthlyCategorySpending(transactions) {
     const monthlyData = {};
@@ -272,8 +274,12 @@ function BudgetPlanner({ expenses }) {
       const budgetData = budgetResponse.data;
 
       console.log("expense:", expenseData, "budget:", budgetData)
+
+
       const monthlyCategorySpendings = getMonthlyCategorySpending(expenseData);
       let budgetList = generateBudgetFlatList(budgetData, monthlyCategorySpendings);
+
+      
       setBudgetsFlatList(budgetList);
     };
 
