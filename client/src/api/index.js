@@ -3,27 +3,27 @@ import axios from "axios";
 const API = axios.create({ baseURL: "" });
 //post
 export const postExpense = async (payload) => {
-  await API.post("/expense", payload);
+  await axios.post("/api/expense", payload);
 };
 //get
 export const getExpense = async () => {
-  return await API.get("/expense");
+  return await axios.get("/api/expense");
 };
 
 export const deleteExpense = async (id) => {
   if (!id) return;
-  return await API.delete(`/expense/${id}`);
+  return await axios.delete(`/api/expense/${id}`);
 };
 
 export const fetchExpenseByMonth = async (month) => {
-  return await API.get(`/expense/${month}`);
+  return await axios.get(`/api/expense/${month}`);
 };
 
 
 export const fetchAllBudgets = async () => {
-  return await API.get(`/budget`);
+  return await axios.get(`/api/budget`);
 }
 
 export const postBudget = async (payload) => {
-  return await API.post(`/budget`, payload)
+  return await axios.post(`/api/budget`, payload)
 }
