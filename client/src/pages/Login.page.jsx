@@ -1,6 +1,17 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
+import { useUser } from '../contexts/user.context';
+import { useNavigate } from 'react-router-dom';
 
 const LoginPage = () => {
+    const { user, setUser } = useUser();
+    const navigate = useNavigate();
+
+    useEffect(() => {
+        if (user) {
+            navigate('/');
+        }
+    }, [user, navigate]);
+
     const [data, setData] = useState({
         email: "",
         password: ""
@@ -16,6 +27,9 @@ const LoginPage = () => {
     const handleSubmit = (e) => {
         e.preventDefault();
         // Handle login logic here
+        console.log("woow")
+        setUser(data);
+        navigate('/');
     }
 
     return (

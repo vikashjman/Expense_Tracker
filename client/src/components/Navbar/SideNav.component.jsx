@@ -1,7 +1,12 @@
 import React from 'react'
 import logo from "../../images/logo 2.png"
 import './nav.css'
+import { useUser } from '../../contexts/user.context'
 function Nav() {
+  const {setUser} = useUser();
+  const handleLogout = () => {
+    setUser(null);
+  }
   return (
     <div className='navBody' >
       <div className='navTitle'>
@@ -13,7 +18,7 @@ function Nav() {
         <label>Bookmarks</label>
         <label>Support Us</label>
         <label>About Us</label>
-        <label>Logout</label>
+        <label onClick={handleLogout}>Logout</label>
       </div>
     </div>
   )
