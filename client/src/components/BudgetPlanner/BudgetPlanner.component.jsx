@@ -232,7 +232,6 @@ function BudgetPlanner({ expenses }) {
       monthlyData[month][category] += amount;
     });
 
-    console.log("monthlyData", monthlyData);
 
     return monthlyData;
   }
@@ -273,7 +272,6 @@ function BudgetPlanner({ expenses }) {
       const expenseData = expenseResponse.data;
       const budgetData = budgetResponse.data;
 
-      console.log("expense:", expenseData, "budget:", budgetData)
 
 
       const monthlyCategorySpendings = getMonthlyCategorySpending(expenseData);
@@ -313,7 +311,6 @@ function BudgetPlanner({ expenses }) {
 
   // Function to calculate completion percentage for a category
   const calculateCompletionPercentage = (totalSpent, totalBudget) => {
-    console.log(totalSpent, totalBudget);
     return Math.round((totalSpent / totalBudget) * 100) || 0;
   };
 
