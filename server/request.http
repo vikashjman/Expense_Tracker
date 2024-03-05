@@ -1,0 +1,13 @@
+### Signup A User
+POST http://localhost:4000/user/
+
+{
+    "email": "test@gmail.com",
+    "password": "jlsjfls",
+    "age": 23,
+    "gender": "male",
+    "incomeLevel": 2000,
+    "country": "India",,
+    "state": "Bihar",
+    "city": arrah
+}
